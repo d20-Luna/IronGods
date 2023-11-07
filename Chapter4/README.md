@@ -1,12 +1,60 @@
-# Title of AP
+# Valley of the Brain Collectors Lv 12 - 15
 
-[A Series of Dice-Based Events Discord](https://discord.gg/UQ8UD3H)
+## Table of Contents
 
-A repository to hold tools for those wishing to run and convert Title of AP to Pathfinder 2E.
+- [Part 1: Scar of the Spider](#part-1-scar-of-the-spider)
+- [Part 2: An Alien Ally](#part-2-an-alien-ally)
+- [Part 3: The Whispering Dark](#part-3-the-whispering-dark)
+- [Part 4: Dominion of the Black](#part-4-dominion-of-the-black)
+- [Area M: The Dominion Hive](#m-the-dominion-hive)
+- [Alien Technology](#alien-technology)
+- [Scar of the Spider Encounters](#scar-of-the-spider-encounters)
 
-The README.md files can have simple breakdowns of modified DCs for various tasks brought up in the Adventure while the individual folders can hold the files for the monster/NPC stat blocks.
+## Advancement Track
 
-## Recommended Tool
+Level | XP Progression          | Milestone
+------|-------------------------|------------------------
+12    | PCs begin at Lv 12      | PCs begin at Lv 12
+13    | After completing Part 2 | After completing Part 2
+14    | After completing Part 4 | After completing Part 4
+15    | After completing Area M | After completing Area M
 
-http://monster.pf2.tools/ uses JSON files that can be easily imported/exported. This repository ideally will hold those files publicly sourced and created, as well as other tools/files. 
-Please do not submit PDF files or entire texts of the AP. Only submit modifications for the DC and NPCs/Monsters. Please also include a page number/map section label so GMs can cross-reference.
+## Part 1: Scar of the Spider
+
+- **Skills:**
+  - **Recall Knowledge (Engineering Lore): DC 32 -** Know that a neurocam can record a creature's thoughts and memories.
+
+### Scar of the Spider Features
+
+- **Skills:**
+  - **Climb (Athletics): DC 26 -** To scale the walls of the Scar of the Spider.
+
+### A. Entrance to the Scar (?? XP, ??? Threat)
+
+- **Skills:**
+  - **Seek (Perception): DC 33 -** Reveals the details about the tracks and battlefield.
+  - **Track (Survival): DC 28 -** Reveals the details about the tracks and battlefield.
+  - **Track (Survival): DC 30 -** To follow the tracks to the Dominion Hive.
+  - **Recall Knowledge (Engineering Lore): DC 28 -** To confirm the explosion was primarily a plasma and concussion blast.
+  - **Track (Survival): DC 34 -** To note the well-hidden humanoid footprints amid the ruins.
+  - **Track (Survival): DC 29 -** To locate the third set of tracks leading to Petitent Pilgrimage.
+
+- **Hazards:**
+  - 1x [Unstable Power Supply^](Hazards/README.md#unstable-power-supply)
+
+### B. Infested Cavern (?? XP, ??? Threat)
+
+- **Creatures:**
+  - ?x [Red Mold Ogre Spiders^](Creatures/README.md#red-mold-ogre-spiders)
+ 
+- **Hazards:**
+  - 1x [Red Mold Spores^](Hazards/README.md#red-mold-spores)
+ 
+- **Loot:**
+  - 1x *[+2](https://2e.aonprd.com/Equipment.aspx?ID=278) [resilient](https://2e.aonprd.com/Equipment.aspx?ID=279) [chain shirt](https://2e.aonprd.com/Armor.aspx?ID=6)*
+  - 6 gp
+  - 2x red garnets (worth 10 gp each)
+  - 1x [adamantine (standard-grade)](https://2e.aonprd.com/Equipment.aspx?ID=374) [longsword](https://2e.aonprd.com/Weapons.aspx?ID=31)
+  - 1x [*bracers of armor II*](https://2e.aonprd.com/Equipment.aspx?ID=416)
+ 
+  - **XP Award:** If the PCs navigate the cave and deal with the red mold, award them ?? XP.
