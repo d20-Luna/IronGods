@@ -6,7 +6,7 @@ Use the PF2 Tools JSON files with [https://template.pf2.tools/]. Be aware these 
 
 ### Unstable Power Supply
 
-![Unstable Power Supply](PNGs/Unstable Power Supply.png)
+![Unstable Power Supply](/PNGs/Unstable Power Supply.png)
 
-* [PF2 Tools JSON](PF2Tools/Unstable Power Supply.json)
-* [PDF](PDFs/Unstable Power Supply.pdf)
+* [PF2 Tools JSON](/PF2Tools/Unstable Power Supply.json)
+* [PDF](/PDFs/Unstable Power Supply.pdf)
