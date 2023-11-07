@@ -9,4 +9,4 @@ Use the PF2 Tools JSON files with [https://template.pf2.tools/]. Be aware these 
 ![Unstable Power Supply](PNGs/Unstable Power Supply.png)
 
 * [PF2 Tools JSON](PF2Tools/Unstable Power Supply.json)
-* [PDF](Chapter4/Hazards/PDFs/Unstable Power Supply.pdf)
+* [PDF](PDFs/Unstable Power Supply.pdf)
