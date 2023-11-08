@@ -25,3 +25,5 @@ Notes.
 
 * [PF2 Tools JSON](PF2Tools/RedMoldOgreSpider.json)
 * [PDF](PDFs/RedMoldOgreSpider.pdf)
+
+Red Mold Ogre Spider is built as an Ogre Spider increased to 8th Level with reduced Dexterity and the Mindless trait, granted Fast Healing and Resistance to physical damage, and the Aberration type instead of Animal.
