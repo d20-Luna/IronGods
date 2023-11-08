@@ -13,9 +13,9 @@ Use the PF2 Tools JSON files with [https://template.pf2.tools/]. Be aware these 
 
 ## B. Infested Cavern
 
-### Red Mold Spore
+### Red Mold Spores
 
-![Red Mold Spore](PNGs/RedMoldSpore.png)
+![Red Mold Spore](PNGs/RedMoldSpores.png)
 
-* [PF2 Tools JSON](PF2Tools/RedMoldSpore.json)
-* [PDF](PDFs/RedMoldSpore.pdf)
+* [PF2 Tools JSON](PF2Tools/RedMoldSpores.json)
+* [PDF](PDFs/RedMoldSpores.pdf)
