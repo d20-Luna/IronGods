@@ -29,7 +29,7 @@ Level | XP Progression          | Milestone
 - **Skills:**
   - **Climb (Athletics): DC 26 -** To scale the walls of the Scar of the Spider.
 
-### A. Entrance to the Scar (?? XP, ??? Threat)
+### A. Entrance to the Scar (20 XP, Trivial Threat)
 
 - **Skills:**
   - **Seek (Perception): DC 33 -** Reveals the details about the tracks and battlefield.
@@ -42,10 +42,10 @@ Level | XP Progression          | Milestone
 - **Hazards:**
   - 1x [Unstable Power Supply^](Hazards/README.md#unstable-power-supply)
 
-### B. Infested Cavern (?? XP, ??? Threat)
+### B. Infested Cavern (60 XP, Low Threat)
 
 - **Creatures:**
-  - ?x [Red Mold Ogre Spiders^](Creatures/README.md#red-mold-ogre-spiders)
+  - 3x [Red Mold Ogre Spiders^](Creatures/README.md#red-mold-ogre-spiders)
  
 - **Hazards:**
   - 1x [Red Mold Spores^](Hazards/README.md#red-mold-spores)
@@ -55,6 +55,9 @@ Level | XP Progression          | Milestone
   - 6 gp
   - 2x red garnets (worth 10 gp each)
   - 1x [adamantine (standard-grade)](https://2e.aonprd.com/Equipment.aspx?ID=374) [longsword](https://2e.aonprd.com/Weapons.aspx?ID=31)
+  - 1x [scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [comprehend language (4th level)](https://2e.aonprd.com/Spells.aspx?ID=46)
+  - 1x [scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [divine wrath](https://2e.aonprd.com/Spells.aspx?ID=86)
+  - 1x [scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [wall of wind](https://2e.aonprd.com/Spells.aspx?ID=367)
   - 1x [*bracers of armor II*](https://2e.aonprd.com/Equipment.aspx?ID=416)
  
-  - **XP Award:** If the PCs navigate the cave and deal with the red mold, award them ?? XP.
+  - **XP Award:** If the PCs navigate the cave and deal with the red mold, award them 30 XP.
