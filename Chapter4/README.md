@@ -92,7 +92,7 @@ Level | XP Progression          | Milestone
 
 - **Creatures:**
   - 4x [Penitent Androids^](Creatures/README.md#penitent-android)
-  - [Harab^](Creatures/README.md#harab]
+  - [Harab^](Creatures/README.md#harab)
 
 - **Loot:**
   - 1x *[Thurible of Revelation (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=267)*
