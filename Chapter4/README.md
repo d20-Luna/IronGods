@@ -60,4 +60,4 @@ Level | XP Progression          | Milestone
   - 1x [scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [wall of wind](https://2e.aonprd.com/Spells.aspx?ID=367)
   - 1x [*bracers of armor II*](https://2e.aonprd.com/Equipment.aspx?ID=416)
  
-  - **XP Award:** If the PCs navigate the cave and deal with the red mold, award them 30 XP.
+- **XP Award:** If the PCs navigate the cave and deal with the red mold, award them 30 XP.
