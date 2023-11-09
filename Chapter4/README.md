@@ -29,7 +29,7 @@ Level | XP Progression          | Milestone
 - **Skills:**
   - **Climb (Athletics): DC 26 -** To scale the walls of the Scar of the Spider.
 
-### A. Entrance to the Scar (20 XP, Trivial Threat)
+### A. Entrance to the Scar (4 XP, Trivial Threat)
 
 - **Skills:**
   - **Seek (Perception): DC 33 -** Reveals the details about the tracks and battlefield.
@@ -42,7 +42,7 @@ Level | XP Progression          | Milestone
 - **Hazards:**
   - [Unstable Power Supply^](Hazards/README.md#unstable-power-supply)
 
-### B. Infested Cavern (60 XP, Low Threat)
+### B. Infested Cavern (36 XP, Trivial Threat)
 
 - **Creatures:**
   - 3x [Red Mold Ogre Spiders^](Creatures/README.md#red-mold-ogre-spiders)
@@ -77,7 +77,7 @@ Level | XP Progression          | Milestone
 
 - **XP Award:** If the PCs make an alliance with Mad Paeytr, award them 10 XP as if they had defeated him in combat. If the PCs can restore Mad Paeytr's mind, award them 40 XP as if they had defeated him as a full-fledged 12th-level druid.
 
-### D. Alien Grove (?? XP, ??? Threat)
+### D. Alien Grove (60 XP, Low Threat)
 
 - **Creatures:**
   - 2x [Yangethes^](Creatures/README.md#yangethe)
@@ -88,7 +88,7 @@ Level | XP Progression          | Milestone
   - Metal Scroll Tube
     - 2x *[Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [Sudden Bolt (6th Level)](https://2e.aonprd.com/Spells.aspx?ID=639)*
    
-### F. Penitent Pilgrimage (?? XP, ??? Threat)
+### F. Penitent Pilgrimage (80 XP, Moderate Threat)
 
 - **Creatures:**
   - 4x [Penitent Androids^](Creatures/README.md#penitent-android)
@@ -100,7 +100,7 @@ Level | XP Progression          | Milestone
  
 - **XP Award:** If the PCs can negotiate a peaceful resolution, award them ?? XP as if they had defeated them in combat.
 
-### G. Bounty Hunter's Camp (?? XP, ??? Threat)
+### G. Bounty Hunter's Camp (80 XP, Moderate Threat)
 
 - **Creatures:**
   - [Hyrsek Caio^](Creatures/README.md#hyrsek-caio)
