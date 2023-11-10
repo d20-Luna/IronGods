@@ -12,6 +12,14 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 **Capacity** 10; **Power Use** 1 charge; **Craft DC** 23;
 
+## Arc Rifle
+
+**Level** 10; **Price** 1,200 gp; **Bulk** 2; **Hands** 2; **Range** 150 feet;
+
+**Traits** Rare, [Beam^](/Traits/README.md#beam), [Tech^](/Traits/README.md#tech)
+
+**Capacity** 20; **Power Use** 1 charge; **Craft DC** 27
+
 ## Autograpnel
 
 **Level** 6; **Price** 240 gp; **Bulk** 2; **Hands** 2; **Range** 30 feet;
