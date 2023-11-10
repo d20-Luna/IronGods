@@ -53,7 +53,7 @@ Level | XP Progression          | Milestone
 - **Loot:**
   - 1x *[+2](https://2e.aonprd.com/Equipment.aspx?ID=278) [resilient](https://2e.aonprd.com/Equipment.aspx?ID=279) [chain shirt](https://2e.aonprd.com/Armor.aspx?ID=6)*
   - 6 gp
-  - 2x red garnets (worth 10 gp each)
+  - 2x Red Garnets (worth 10 gp each)
   - 1x [adamantine (standard-grade)](https://2e.aonprd.com/Equipment.aspx?ID=374) [longsword](https://2e.aonprd.com/Weapons.aspx?ID=31)
   - 1x *[scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [comprehend language (4th level)](https://2e.aonprd.com/Spells.aspx?ID=46)*
   - 1x *[scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [divine wrath](https://2e.aonprd.com/Spells.aspx?ID=86)*
@@ -156,3 +156,187 @@ Level | XP Progression          | Milestone
   - *[+2](https://2e.aonprd.com/Equipment.aspx?ID=281) [Striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [Double-Barreled Pistol](https://2e.aonprd.com/Weapons.aspx?ID=199)
   - 3x *[Lesser Magnetic Bullets](https://2e.aonprd.com/Equipment.aspx?ID=2054)
   - 1x [Wayfinder](https://2e.aonprd.com/Equipment.aspx?ID=470)
+
+### E7. Guardpost (?? XP, ??? Threat)
+
+- **Skills:**
+  - **Decipher Writing (Society): DC 30 -** To identify the symbols on the floor.
+
+- **Creatures:**
+  - 4x [Guardians of Binox](Creatures/README.md#guardian-of-binox)
+
+### E8. Steam Bath (?? XP, ??? Threat)
+
+- **Skills:**
+  - **Seek (Perception): DC 30 -** To confirm the large slab to the west is a massive glaucite door.
+
+- **Hazards:**
+  - [Steam Blast](Hazards/README.md#steam#blast)
+
+### E10. Generator Controls
+
+- **Skills:**
+  - **Recall Knowledge (Engineering Lore): DC 30 -** To decipher the controls.
+  - **Recall Knowledge (Engineering Lore): DC 36 -** To set the reactor to overload and explode.
+ 
+- **XP Awards:**
+  - If the PCs manage to increase the generator's available yield, award them ?? XP. If the PCs also manage to use the generator to damage Binox, award them ?? XP.
+ 
+### E11. Binox's Throne (?? XP, ??? Threat)
+
+- **Skills:**
+  - **Recall Knowledge (Engineering Lore): DC 30 -** To identify the chamber as a combined military and production lab.
+  - **Seek (Perception): DC 36 -** To locate the hidden safe.
+  - **Pick a Lock (Thievery): DC 36 -** To unlock the glaucite safe.
+
+- **Creatures:**
+  - [Binox](Creatures/README.md#reclamation-robot)
+ 
+- **Loot:**
+  - **Inside the Glaucite Safe:**
+    - 4x [Arc Grenades](/Technology%20Guide/Gear/README.md#grenade)
+    - 8x [EMP Grenades](/Technology%20Guide/Gear/README.md#grenade)
+    - 1x [EMP Pistol](/Technology%20Guide/Weapons#emp-pistol)
+    - 1x [Arc Rifle](/Technology%20Guide/Weapons#arc-rifle)
+
+## Part 3: The Whispering Dark
+
+### Fungal Cave Features
+
+- **Skills:**
+  - **Climb (Athletics): DC 31 -** To climb the walls of the caves.
+  - **Balance (Acrobatics): DC 30 -** To walk along the floors of the caves, due to the slippery growth.
+  - **Fortitude: DC 28 -** To avoid becoming sickened 1 for one hour and risking filth fever (see below); creatures are immune for 24 hours on a success.
+  - **Fortitude: DC 28 -** To avoid contracting filth fever as per a [Rat Swarm](https://2e.aonprd.com/Monsters.aspx?ID=347), with increased DC.
+  - **Seek (Perception): DC 26 -** To locate the second entrance.
+ 
+### H1. Guarded Entrance (50 XP, Low Threat)
+
+- **Creatures:**
+  - 5x [Elite Shamblers](https://2e.aonprd.com/Monsters.aspx?ID=364&Elite=true)
+ 
+### H2. Swampy Corridor
+
+- **Skills:**
+  - **Seek (Perception): DC 28 -** To reveal the ledge opening.
+
+### H3. Ambush Gallery (?? XP, ??? Threat)
+
+- **Skills:**
+  - **Recall Knowledge (Medicine): DC 26 -** To reveal the origin of the bones.
+  - **Seek (Perception): DC 31 -** To reveal the ledges above.
+ 
+- **Creatures:**
+  - 4x [Elite Mi-Gos](https://2e.aonprd.com/Monsters.aspx?ID=1227&Elite=true)
+ 
+### H4. Abattoir (?? XP, ??? Threat)
+
+- **Skills:**
+  - **Seek (Perception): DC 28 -** To notice the ledge.
+  - **Seek (Perception): DC 26 -** To reveal the thin mat of fungus covering the hole in the ceiling.
+
+- **Creatures:**
+  - 2x [Gugs](https://2e.aonprd.com/Monsters.aspx?ID=252)
+ 
+- **Loot:**
+  - 17 gp
+  - 5x Chrysoberyls (worth 10 gp each)
+  - 1x Violet Garnet (worth 50 gp)
+  - 1x [Ring of Counterspells](https://2e.aonprd.com/Equipment.aspx?ID=454) with [Cone of Cold](https://2e.aonprd.com/Spells.aspx?ID=47) already stored inside
+  - 1x [Wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [Chroma Leech](https://2e.aonprd.com/Spells.aspx?ID=679)
+ 
+### H5. Surgery Chamber (?? XP, ??? Threat)
+
+- **Skills:**
+  - **Seek (Perception): DC 29 -** To locate the severed arm wearing the bracelet.
+
+- **Creatures:**
+  - 4x [Elite Mi-Gos](https://2e.aonprd.com/Monsters.aspx?ID=1227&Elite=true)
+ 
+- **Loot:**
+  - 1 of 2 bracelets of a [Force Field](Items/README.md#force-field)
+  - 4x [Brain Cylinders](Items/README.md#brain-cylinder)
+ 
+### H6. Surface Access (?? XP, ??? Threat)
+
+- **Skills:**
+  - **Seek (Perception): DC 29 -** To notice the hole in the ceiling of H6a leading to H6b at night.
+  - **Seek (Perception): DC 14 -** To notice the hole in the ceiling of H6a leading to H6b during the day.
+  - **Seek (Perception): DC 29 -** To notice the hole in the floor of H6b leading to H6a.
+ 
+- **Creatures:**
+  - 4x [Elite Mi-Gos](https://2e.aonprd.com/Monsters.aspx?ID=1227&Elite=true)
+ 
+### H7. Howls in the Dark (?? XP, ??? Threat)
+
+- **Creatures:**
+  - 4x [Elite Vooniths](Creatures/README.md#elite-voonith)
+ 
+- **Loot:**
+  - 3x [Touches of Avolition](Items/README.md#touch-of-avolition)
+ 
+### H8. Shrine to Shub-Niggurath (?? XP, ??? Threat)
+
+- **Skills:**
+  - **Recall Knowledge (Occultism or Religion): DC 29 -** To identify the symbols and fungal "tree" as sacred to the outer god [Shub-Niggurath](Creatures/README.md#shub-niggurath)
+ 
+- **Creatures:**
+  - 3x [Chaos Beasts of Shub-Niggurath](Creatures/README.md#chaos-beast-of-shub-niggurath)
+ 
+- **Loot:**
+  - 5x Platinum Teeth (worth 30 gp each)
+  - 1x [Thoratic Nanite Chamber](/Technology%20Guide/Cybertech/README.md#thoratic-nanite-chamber)
+ 
+### H9. Toxic Pool (?? XP, ??? Threat)
+
+- **Hazards:**
+  - [Toxic Sludge](Hazards/README.md#toxic-sludge)
+ 
+- **Loot:**
+  - *[+2](https://2e.aonprd.com/Equipment.aspx?ID=278) [Greater Fire Resistant](https://2e.aonprd.com/Equipment.aspx?ID=283) [Chain Mail](https://2e.aonprd.com/Armor.aspx?ID=9)*
+  - 1 of 2 bracelets of a [Force Field](Items/README.md#force-field)
+ 
+- **XP Award:** If the PCs manage to navigate this room and recover its treasures, award them ?? XP.
+
+### H10. Walls of Bone (?? XP, ??? Threat)
+
+- **Skills:**
+  - **Seek (Perception): DC 29 -** To locate the hidden tunnel exits.
+
+- **Creatures:**
+  - 1x [Gug](https://2e.aonprd.com/Monsters.aspx?ID=252)
+ 
+### H11. Plague Cave (?? XP, ??? Threat)
+
+- **Hazards:**
+  - [Dominion Plague](Hazards/README.md#dominion-plague)
+ 
+### H12. Lrrhech's Repose (?? XP, ??? Threat)
+
+- **Hazards:**
+  - [Toxic Sludge](Hazards/README.md#toxic-sludge)
+ 
+- **Creatures:**
+  - [Lrrhech](Creatures/README.md#lrrhech)
+  - 2x [Elite Mi-Gos](https://2e.aonprd.com/Monsters.aspx?ID=1227&Elite=true)
+ 
+### H13. Therace's Brain
+
+- **Loot:**
+  - 1x [Bracers of Armor II](https://2e.aonprd.com/Equipment.aspx?ID=416)
+  - 1x *[+2](https://2e.aonprd.com/Equipment.aspx?ID=281) [Greater Striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [Laser Pistol](/Technology%20Guide/Weapons/README.md#laser-pistol)
+  - 1x [Wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [Fly](https://2e.aonprd.com/Spells.aspx?ID=125)
+  - 1x [Wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [Technomancy](Technology%20Guide#technomancy)
+  - 1x Red-level access keycard
+  - 1x Therace Holiyard's [spellbook](https://2e.aonprd.com/Equipment.aspx?ID=53). Contains the following spells:
+    - **4th** *[rebuke technology](/Technology%20Guide/README.md#rebuke-technology)*
+    - **3rd** *[irradiate](/Technology%20Guide/README.md#irradiate), [recharge](/Technology%20Guide/README.md#recharge)*
+    - **2nd** *[detect radiation](/Technology%20Guide/README.md#detect-radiation)*
+    - **1st** *[technomancy^](/Technology%20Guide/README.md#technomancy)*
+   
+- **XP Awards:** For discovering Therace's brain, award the PCs ??? XP.
+
+## The Blighted Caves
+
+- **Hazards:**
+  - 
