@@ -154,7 +154,7 @@ Level | XP Progression          | Milestone
  
 - **Loot:**
   - *[+2](https://2e.aonprd.com/Equipment.aspx?ID=281) [Striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [Double-Barreled Pistol](https://2e.aonprd.com/Weapons.aspx?ID=199)
-  - 3x *[Lesser Magnetic Bullets](https://2e.aonprd.com/Equipment.aspx?ID=2054)
+  - 3x [Lesser Magnetic Bullets](https://2e.aonprd.com/Equipment.aspx?ID=2054)
   - 1x [Wayfinder](https://2e.aonprd.com/Equipment.aspx?ID=470)
 
 ### E7. Guardpost (?? XP, ??? Threat)
