@@ -72,6 +72,14 @@ EMP pistols deal no damage to living creatures.
 
 **Capacity** 20; **Power Use** 1; **Craft DC** 28
 
+## Laser Pistol
+
+**Level** 8; **Price** 600 gp; **Bulk** 1; **Hands** 1; **Range** 50 feet;
+
+**Traits** Uncommon, [Beam^](/Traits/README.md#beam), [Laser^](/Traits/README.md#laser), [Tech^](/Traits/README.md#tech)
+
+**Capacity** 10; **Power Use** 1 charge; **Craft DC** 23;
+
 ## Laser Torch
 
 **Level** 8; **Price** 450 gp; **Damage** 1d10 Fire **Bulk** 1; **Hands** 1;
