@@ -98,6 +98,14 @@ EMP pistols deal no damage to living creatures.
 
 **Capacity** 20; **Power Use** 1 charge; **Craft DC** 27
 
+## Rocket Launcher
+
+**Level** 8; **Price** 550 gp; **Bulk** 2; **Hands** 2; **Range** 600 feet;
+
+**Traits** Rare, [Tech^](/Traits/README.md#tech)
+
+**Capacity** 10; **Power Use** 1; **Craft DC** 30
+
 ## Stun Gun
 
 **Level** 5; **Price** 200 gp; **Bulk** 1; **Hands** 1; **Range** 20 feet;
