@@ -16,7 +16,7 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 **Level** 10; **Price** 1,200 gp; **Bulk** 2; **Hands** 2; **Range** 150 feet;
 
-**Traits** Rare, [Beam^](/Traits/README.md#beam), [Tech^](/Traits/README.md#tech)
+**Traits** Rare, Electricity, [Tech^](/Traits/README.md#tech)
 
 **Capacity** 20; **Power Use** 1 charge; **Craft DC** 27
 
@@ -121,3 +121,11 @@ EMP pistols deal no damage to living creatures.
 **Traits** Uncommon, Cold, [Tech^](/Traits/README.md#tech)
 
 **Capacity** 10; **Power Use** 1 charge; **Craft DC** 23
+
+## Zero Rifle
+
+**Level** 10; **Price** 1,200 gp; **Bulk** 2; **Hands** 2; **Range** 150 feet;
+
+**Traits** Rare, Cold, [Tech^](/Traits/README.md#tech)
+
+**Capacity** 20; **Power Use** 1 charge; **Craft DC** 27
