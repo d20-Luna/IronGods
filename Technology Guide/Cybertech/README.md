@@ -42,6 +42,26 @@ You take a number of hours equal to a piece of cybertech's Implantation score to
 
 ## Cybertech List
 
+### Cybernetic Arm
+
+**Traits** Rare, Cybertech, [Tech^](/Traits/README.md#tech)
+
+**Level** 6; **Price** 250 gp; **Slot** arm; **Bulk** -; **Install DC** 25; **Implantation** 2; **Craft DC** 23
+
+A cybernetic arm completely replaces a normal arm, from the shoulder to the hand. It can take the place of an arm lost to a severing wound. The arm is fully functional and no different in appearance from a regular arm, although cyberart can be added to the arm at no additional cost.
+
+If a creature has two cybernetic arms, they can carry 3 more Bulk than normal before becoming encumbered and up to a maximum of 6 more Bulk, and they gain a +2 item bonus on Athletics checks.
+
+A creature wielding a weapon with a cybernetic arm gains a +2 item bonus to their Reflex DC against Disarm attempts.
+
+### Cybernetic Eyes
+
+**Traits** Rare, Cybertech, [Tech^](/Traits/README.md#tech)
+
+**Level** 6; **Price** 230 gp; **Slot** eyes; **Bulk** -; **Install DC** 25; **Implantation** 1; **Craft DC** 23
+
+Cybernetic eyes completely replace normal eyes. A cybernetic eye can be enhanced by cyber art for no additional cost, giving it an unusual color or pattern. When a pair of eyes is installed, the user gains a +2 item bonus on Perception checks using sight. Cybernetic eyes grants a +2 item bonus on saving throws against blindness and effects with the visual trait. A pair of cybernetic eyes can be further enhanced by one veemod at a price equal to twice the veemod’s normal price.
+
 ### Skillslot
 
 **Traits** Rare, Cybertech, [Tech^](/Traits/README.md#tech)
