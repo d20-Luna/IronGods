@@ -7,7 +7,6 @@
 - [Part 3: The Whispering Dark](#part-3-the-whispering-dark)
 - [Part 4: Dominion of the Black](#part-4-dominion-of-the-black)
 - [Area M: The Dominion Hive](#m-the-dominion-hive)
-- [Alien Technology](#alien-technology)
 - [Scar of the Spider Encounters](#scar-of-the-spider-encounters)
 
 ## Advancement Track
@@ -163,7 +162,7 @@ Level | XP Progression          | Milestone
   - **Decipher Writing (Society): DC 30 -** To identify the symbols on the floor.
 
 - **Creatures:**
-  - 4x [Guardians of Binox](Creatures/README.md#guardian-of-binox)
+  - 4x [Guardians of Binox^](Creatures/README.md#guardian-of-binox)
 
 ### E8. Steam Bath (?? XP, ??? Threat)
 
@@ -171,7 +170,7 @@ Level | XP Progression          | Milestone
   - **Seek (Perception): DC 30 -** To confirm the large slab to the west is a massive glaucite door.
 
 - **Hazards:**
-  - [Steam Blast](Hazards/README.md#steam#blast)
+  - [Steam Blast^](Hazards/README.md#steam#blast)
 
 ### E10. Generator Controls
 
@@ -190,14 +189,14 @@ Level | XP Progression          | Milestone
   - **Pick a Lock (Thievery): DC 36 -** To unlock the glaucite safe.
 
 - **Creatures:**
-  - [Binox](Creatures/README.md#reclamation-robot)
+  - [Binox^](Creatures/README.md#reclamation-robot)
  
 - **Loot:**
   - **Inside the Glaucite Safe:**
-    - 4x [Arc Grenades](/Technology%20Guide/Gear/README.md#grenade)
-    - 8x [EMP Grenades](/Technology%20Guide/Gear/README.md#grenade)
-    - 1x [EMP Pistol](/Technology%20Guide/Weapons#emp-pistol)
-    - 1x [Arc Rifle](/Technology%20Guide/Weapons#arc-rifle)
+    - 4x [Arc Grenades^](/Technology%20Guide/Gear/README.md#grenade)
+    - 8x [EMP Grenades^](/Technology%20Guide/Gear/README.md#grenade)
+    - 1x [EMP Pistol^](/Technology%20Guide/Weapons#emp-pistol)
+    - 1x [Arc Rifle^](/Technology%20Guide/Weapons#arc-rifle)
 
 ## Part 3: The Whispering Dark
 
@@ -254,8 +253,8 @@ Level | XP Progression          | Milestone
   - 4x [Elite Mi-Gos](https://2e.aonprd.com/Monsters.aspx?ID=1227&Elite=true)
  
 - **Loot:**
-  - 1 of 2 bracelets of a [Force Field](Items/README.md#force-field)
-  - 4x [Brain Cylinders](Items/README.md#brain-cylinder)
+  - 1 of 2 bracelets of a [Force Field^](Items/README.md#force-field)
+  - 4x [Brain Cylinders^](Items/README.md#brain-cylinder)
  
 ### H6. Surface Access (?? XP, ??? Threat)
 
@@ -270,31 +269,31 @@ Level | XP Progression          | Milestone
 ### H7. Howls in the Dark (?? XP, ??? Threat)
 
 - **Creatures:**
-  - 4x [Elite Vooniths](Creatures/README.md#elite-voonith)
+  - 4x [Elite Vooniths^](Creatures/README.md#elite-voonith)
  
 - **Loot:**
-  - 3x [Touches of Avolition](Items/README.md#touch-of-avolition)
+  - 3x [Touches of Avolition^](Items/README.md#touch-of-avolition)
  
 ### H8. Shrine to Shub-Niggurath (?? XP, ??? Threat)
 
 - **Skills:**
-  - **Recall Knowledge (Occultism or Religion): DC 29 -** To identify the symbols and fungal "tree" as sacred to the outer god [Shub-Niggurath](Creatures/README.md#shub-niggurath)
+  - **Recall Knowledge (Occultism or Religion): DC 29 -** To identify the symbols and fungal "tree" as sacred to the outer god [Shub-Niggurath^](Creatures/README.md#shub-niggurath)
  
 - **Creatures:**
-  - 3x [Chaos Beasts of Shub-Niggurath](Creatures/README.md#chaos-beast-of-shub-niggurath)
+  - 3x [Chaos Beasts of Shub-Niggurath^](Creatures/README.md#chaos-beast-of-shub-niggurath)
  
 - **Loot:**
   - 5x Platinum Teeth (worth 30 gp each)
-  - 1x [Thoratic Nanite Chamber](/Technology%20Guide/Cybertech/README.md#thoratic-nanite-chamber)
+  - 1x [Thoratic Nanite Chamber^](/Technology%20Guide/Cybertech/README.md#thoratic-nanite-chamber)
  
 ### H9. Toxic Pool (?? XP, ??? Threat)
 
 - **Hazards:**
-  - [Toxic Sludge](Hazards/README.md#toxic-sludge)
+  - [Toxic Sludge^](Hazards/README.md#toxic-sludge)
  
 - **Loot:**
   - *[+2](https://2e.aonprd.com/Equipment.aspx?ID=278) [Greater Fire Resistant](https://2e.aonprd.com/Equipment.aspx?ID=283) [Chain Mail](https://2e.aonprd.com/Armor.aspx?ID=9)*
-  - 1 of 2 bracelets of a [Force Field](Items/README.md#force-field)
+  - 1 of 2 bracelets of a [Force Field^](Items/README.md#force-field)
  
 - **XP Award:** If the PCs manage to navigate this room and recover its treasures, award them ?? XP.
 
@@ -309,34 +308,285 @@ Level | XP Progression          | Milestone
 ### H11. Plague Cave (?? XP, ??? Threat)
 
 - **Hazards:**
-  - [Dominion Plague](Hazards/README.md#dominion-plague)
+  - [Dominion Plague^](Hazards/README.md#dominion-plague)
  
 ### H12. Lrrhech's Repose (?? XP, ??? Threat)
 
 - **Hazards:**
-  - [Toxic Sludge](Hazards/README.md#toxic-sludge)
+  - [Toxic Sludge^](Hazards/README.md#toxic-sludge)
  
 - **Creatures:**
-  - [Lrrhech](Creatures/README.md#lrrhech)
+  - [Lrrhech^](Creatures/README.md#lrrhech)
   - 2x [Elite Mi-Gos](https://2e.aonprd.com/Monsters.aspx?ID=1227&Elite=true)
  
 ### H13. Therace's Brain
 
 - **Loot:**
   - 1x [Bracers of Armor II](https://2e.aonprd.com/Equipment.aspx?ID=416)
-  - 1x *[+2](https://2e.aonprd.com/Equipment.aspx?ID=281) [Greater Striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [Laser Pistol](/Technology%20Guide/Weapons/README.md#laser-pistol)
+  - 1x *[+2](https://2e.aonprd.com/Equipment.aspx?ID=281) [Greater Striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [Laser Pistol^](/Technology%20Guide/Weapons/README.md#laser-pistol)
   - 1x [Wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [Fly](https://2e.aonprd.com/Spells.aspx?ID=125)
-  - 1x [Wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [Technomancy](Technology%20Guide#technomancy)
+  - 1x [Wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [Technomancy^](Technology%20Guide#technomancy)
   - 1x Red-level access keycard
   - 1x Therace Holiyard's [spellbook](https://2e.aonprd.com/Equipment.aspx?ID=53). Contains the following spells:
-    - **4th** *[rebuke technology](/Technology%20Guide/README.md#rebuke-technology)*
-    - **3rd** *[irradiate](/Technology%20Guide/README.md#irradiate), [recharge](/Technology%20Guide/README.md#recharge)*
-    - **2nd** *[detect radiation](/Technology%20Guide/README.md#detect-radiation)*
+    - **4th** *[rebuke technology^](/Technology%20Guide/README.md#rebuke-technology)*
+    - **3rd** *[irradiate^](/Technology%20Guide/README.md#irradiate), [recharge^](/Technology%20Guide/README.md#recharge)*
+    - **2nd** *[detect radiation^](/Technology%20Guide/README.md#detect-radiation)*
     - **1st** *[technomancy^](/Technology%20Guide/README.md#technomancy)*
    
 - **XP Awards:** For discovering Therace's brain, award the PCs ??? XP.
 
 ## The Blighted Caves
 
+### K1. Hungry Guardian (?? XP, ??? Threat)
+
+- **Creatures:**
+  - 1x [Colour-Blighted Froghemoth^](Creatures/README.md#colour-blighted-froghemoth)
+ 
+### K2. Benevess's Grave (?? XP, ??? Threat)
+
+- **Skills:**
+  - **Recall Knowledge (Nature): DC 29 -** To recognize the thicker webs as being left by ogre spiders.
+ 
+- **Creatures:**
+  - [Benevess Veskenti](https://2e.aonprd.com/Monsters.aspx?ID=1842)
+   
+- **Loot:**
+  - 1x [Bloodline Robe](https://2e.aonprd.com/Equipment.aspx?ID=2319)
+  - 1x [Smuggler's Sack (Type III)](https://2e.aonprd.com/Equipment.aspx?ID=2466)
+  - 3x [Moderate Healing Potions](https://2e.aonprd.com/Equipment.aspx?ID=186)
+  - 2x [Greater Healing Potions](https://2e.aonprd.com/Equipment.aspx?ID=186)
+  - 1x [Wand of Shattering Images](https://2e.aonprd.com/Equipment.aspx?ID=2290)
+   
+### K3. Technic Victims
+
+- **Loot:**
+  - Metal Tube
+    - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [Wall of Fire](https://2e.aonprd.com/Spells.aspx?ID=362)
+    - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [Blazing Fissure](https://2e.aonprd.com/Spells.aspx?ID=870)
+    - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [Water Breathing (3rd Level)](https://2e.aonprd.com/Spells.aspx?ID=370)
+  - 1x [Dragon's Breath Potion (Adult Copper)](https://2e.aonprd.com/Equipment.aspx?ID=185)
+  - 1x [Flashlight^](/Technology%20Guide/Gear#flashlight)
+  - 1x [Pair of Veemod Goggles^](/Technology%20Guide/Gear#veemod-goggles) with [Green Veemod^](/Technology%20Guide/Gear#veemod) installed
+  - 1x [Skillslot^](/Technology%20Guide/Cybertech#skillslot) with [Acrobatics Skillchip Mark III^](/Technology%20Guide/Gear#skillchip) installed
+ 
+### K4. The Stained Chamber (?? XP, ??? Threat)
+
+- **Creatures:**
+  - 1x [Colour Out of Space^](Creatures/README.md#colour-out-of-space)
+
+- **Loot:**
+  - 1x *[+2](https://2e.aonprd.com/Equipment.aspx?ID=278) [Greater Resilient](https://2e.aonprd.com/Equipment.aspx?ID=279) [Chain Shirt](https://2e.aonprd.com/Armor.aspx?ID=6)*
+  - 1x *[+2](https://2e.aonprd.com/Equipment.aspx?ID=281) [Greater Striking](https://2e.aonprd.com/Equipment.aspx?ID=280] [Shifting](https://2e.aonprd.com/Equipment.aspx?ID=302) [Longsword](https://2e.aonprd.com/Weapons.aspx?ID=31)
+  - Leather Pouch
+    - 12x Amethysts (worth 10 gp each)
+    - 10x [Batteries^](/Technology%20Guide/Gear#battery)
+  - 1x Yegrexi's [spellbook](https://2e.aonprd.com/Equipment.aspx?ID=53). Contains your choice of spells.
+  - 1x [Timeworn Robojack^](Items/README.md#robojack) with 4 charges remaining
+ 
+## Part 4: Dominion of the Black
+
+### L1. Dropship Exterior (?? XP, ??? Threat)
+
 - **Hazards:**
-  - 
+  - **Fortitude: DC 29 -** To resist becoming sickened 1 as long as they remain within the area plus 10 additional minutes.
+ 
+- **Skills:**
+  - **Climb (Athletics): DC 21 -** To scale the walls of the ship's interior or exterior.
+ 
+- **Creatures:**
+  - 1x [Elite Lukwata^](Creatures/README.md#elite-lukwata)
+ 
+### L2. Cargo Pods
+
+- **Skills:**
+  - **Squeeze (Acrobatics): DC 29 -** To wriggle through the doors without breaking them.
+ 
+### L3. Rotting Floor (?? XP, ??? Threat)
+
+- **Hazards:**
+  - [Rotting Floor Explosion^](Hazards/README.md#rotting-floor-explosion)
+ 
+### L4. Cathedral of Light (?? XP, ??? Threat)
+
+- **Creatures:**
+  - [Engine Attendant^](Creatures/README.md#engine-attendant)
+
+### L5. Malfunctioning Lift (?? XP, ??? Threat)
+
+- **Creatures:**
+  - 3x [Larval Cave Worm Broods](https://2e.aonprd.com/Monsters.aspx?ID=2706)
+ 
+### L6. Abandoned Materials
+
+- **Skills:**
+  - **Seek (Perception): DC 31 -** To locate the cannons and mouthpiece.
+
+- **Loot:**
+  - 2x [Fleshnet Cannons^](Items/README.md#fleshnet-cannon)
+  - 1x [Mouthpiece of the Dominion^](Items/README.md#mouthpiece-of-the-dominion)
+ 
+### L7. Attendant's Cabin (?? XP, ??? Threat)
+
+- **Creatures:**
+  - 3x [Brain Collectors](https://2e.aonprd.com/Monsters.aspx?ID=57)
+
+### L8. The Shipmind (?? XP, ??? Threat)
+
+- **Creatures:**
+  - 1x [The-Stars-Whisper](Creatures/README.md#deteriorating-shipmind)
+ 
+- **Loot:**
+  - 16x Yellow Topazes (worth 50 gp each)
+  - 7x Black Star Sapphires (worth 100 gp each)
+  - 1x *[+3](https://2e.aonprd.com/Equipment.aspx?ID=278) [Splint Mail](https://2e.aonprd.com/Armor.aspx?ID=11)*
+  - 1x [Major Staff of Healing](https://2e.aonprd.com/Equipment.aspx?ID=357)
+  - 1x [Blue Veemod^](/Technology%20Guide/Gear#veemod)
+  - 1x [Rocket Launcher^](/Technology%20Guide/Weapons/README.md#rocket-launcher)
+  - 1x [Ingenuity Facet^](Items/README.md#ingenuity-facet)
+ 
+- **XP Awards:** If the PCs can learn about the Dominion and the hive, award them ?? XP.
+
+## Area M: The Dominion Hive
+
+- **Skills:**
+  - **Recall Knowledge (Nature): DC 26 -** To discern that the vines are of no known species.
+
+### M1. Rogue Annihilator (?? XP, ??? Threat)
+
+- **Creatures:**
+  - 1x [Damaged Annihilator Robot^](Creatures/README.md#damaged-annihilator-robot)
+ 
+### M3. Incubator (?? XP, ??? Threat)
+
+- **Hazards:**
+  - [Shrieking Incubator^](Hazards/README.md#shrieking-incubator) 
+
+- **Creatures:**
+  - 7x [Ugothokras^](Creatures/README.md#ugothokra)
+ 
+- **XP Awards:** If the PCs destroy the incubator, award them ?? XP.
+
+### M4. Disposal (?? XP, ??? Threat)
+
+- **Hazards:**
+  - [Dominion Disposal Chamber^](Hazards/README.md#dominion-disposal-chamber)
+ 
+- **Treasure:**
+  - 1x [Pale Lavender Ellipsoid Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407)
+ 
+### M5. Hive Power Stations (?? XP, ??? Threat)
+
+- **Hazards:**
+  - 2x [Dominion Brain Pillars^](Hazards/README.md#dominion-brain-pillar)
+
+- **Creatures:**
+  - 4x [Inhabited Kasathas^](Creatures/README.md#inhabited-kasathas)
+  - 4x [Intellect Devourers](https://2e.aonprd.com/Monsters.aspx?ID=703)
+ 
+- **XP Awards:** If the PCs destroy either pillar, award them ?? XP for each destroyed pillar. If the PCs assist Isuma in burying her kin, award them ?? XP.
+
+### M6. Maukui's Lair (?? XP, ??? Threat)
+
+- **Creatures:**
+  - [Maukui's Host^](Creatures/README.md#adult-void-dragon)
+  - [Maukui^](Creatures/README.md#maukui)
+ 
+- **XP Awards:** If the PCs can forge a (temporary) alliance with Maukui, award them ?? XP.
+
+### M7. Fleshcells (?? XP, ??? Threat)
+
+- **Creatures:**
+  - 4x [Brain Collectors](https://2e.aonprd.com/Monsters.aspx?ID=57)
+ 
+### M8. Shipmind Nursery (?? XP, ??? Threat)
+
+- **Creatures:**
+  - 1x [Elite Brain Collector](https://2e.aonprd.com/Monsters.aspx?ID=57&Elite=true)
+  - 4x [Ugothokras^](Creatures/README.md#ugothokra)
+ 
+### M9. Grand Lab (?? XP, ??? Threat)
+
+- **Creatures:**
+  - [Paajgat the Flayer^](Creatures/README.md#paajgat)
+  - 2x [Brain Collectors](https://2e.aonprd.com/Monsters.aspx?ID=57)
+ 
+- **Loot:**
+  - 1x [Pair of Cybernetic Eyes^](/Technology%20Guide/Cybertech/README.md#cybernetic-eyes)
+  - 1x [Skillslot^](/Technology%20Guide/Cybertech/README.md#skillslot) with [Acrobatics Skillchip Mark IV^](/Technology%20Guide/Gear#skillchip) installed
+  - 1x [Cybernetic Arm^](/Technology%20Guide/Cybertech/README.md#cybernetic-arm)
+ 
+### M11. Portal (?? XP, ??? Threat)
+
+- **Skills:**
+  - **Recall Knowledge (Occultism): DC 29 -** To identify symbol as Dominion symbol of Dark Tapestry.
+  - **Identify Magic (Occultism): DC 34 -** To reveal the method of opening the teleportation pad.
+  - **Trick Magic Item (Occultism): DC 32 -** To trick the pad into activating.
+ 
+- **Creatures:**
+  - 4x [Ugothokras](Creatures/README.md#ugothokra)
+ 
+### M12. Plasma Pits (?? XP, ??? Threat)
+
+- **Hazards:**
+  - 2x [Plasma Pits^](Hazards/README.md#plasma-pit)
+ 
+- **XP Awards:** If the PCs manage to navigate the area and reach M13, award them ?? XP.
+
+### M13. Dark Cavern (?? XP, ??? Threat)
+
+- **Skills:**
+  - **Decipher Writing (Occultism): DC 29 -** To read the walls, if they speak Aklo.
+
+- **Creatures:**
+  - [Dweller-In-Dark-Places^](Creatures/README.md#yah-thelgaad)
+  - 4x [Brain Collectors](https://2e.aonprd.com/Monsters.aspx?ID=57)
+ 
+### M14. Casandalee's Prison (?? XP, ??? Threat)
+
+- **Creatures:**
+  - 1x [Dominion Fossil Golem](https://2e.aonprd.com/Monsters.aspx?ID=1174)
+ 
+- **Loot:**
+  - 1x [Compact AI Core^](Items/README.md#compact-ai-core) containing [Casandalee's AI](Creatures/README.md#casandalee)
+ 
+- **XP Awards:** For rescuing the AI Casandalee, award the PCs ?? XP.
+
+## Scar of the Spider Encounters
+
+The following are Low to Moderate Threat encounters for the listed party level.
+
+d%     | Result                                                               | Party Level
+-------|----------------------------------------------------------------------|----------------
+01-04  | 1d8 [brain collector](https://2e.aonprd.com/Monsters.aspx?ID=57)     | 12
+05-10  | 1d3 [chyzaedu](https://2e.aonprd.com/Monsters.aspx?ID=1093)          | 12
+11-13  | 1d12 [moonflower](https://2e.aonprd.com/Monsters.aspx?ID=730)         | 12
+14-17  | [Isuma](Creatures/README.md#isuma)                                     | 12
+18-21  |          | 12
+22-33  |                                 | 12
+34-36  | 1d4 [gosreg](https://2e.aonprd.com/Monsters.aspx?ID=687)             | 13
+37-38  |  | 13
+39-43  |               | 13
+44-53  |            | 13
+59-63  |    | 13
+64-73  | Android Pilgrims               | 13
+74-77  | Lost Giant         | 14
+78-80  |          | 14
+81-83  |              | 14
+84-87  |             | 14
+88-94  |                   | 14
+95-97  |                | 14
+98-100 |            | 14
+
+### ??? (???)
+
+* ???
+* ???
+
+### ??? (???)
+
+* ???
+* ???
+
+### ??? (???)
+
+* ???
