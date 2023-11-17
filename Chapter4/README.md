@@ -115,7 +115,7 @@ Level | XP Progression          | Milestone
 - **Loot:**
   - 1x Blue Sapphire (worth 100 gp)
   - 1x [Firedrake Pistol^](Items/README.md#firedrake-pistol)
-  - 1x [Compassion Facet^](Items/README.md#compassion-facet)
+  - 1x [Compassion Facet^](Items/README.md#memory-facet)
 
 ## Part 2: An Alien Ally
 
@@ -442,7 +442,7 @@ Level | XP Progression          | Milestone
   - 1x [Major Staff of Healing](https://2e.aonprd.com/Equipment.aspx?ID=357)
   - 1x [Blue Veemod^](/Technology%20Guide/Gear#veemod)
   - 1x [Rocket Launcher^](/Technology%20Guide/Weapons/README.md#rocket-launcher)
-  - 1x [Ingenuity Facet^](Items/README.md#ingenuity-facet)
+  - 1x [Ingenuity Facet^](Items/README.md#memory-facet)
  
 - **XP Awards:** If the PCs can learn about the Dominion and the hive, award them ?? XP.
 
@@ -471,7 +471,7 @@ Level | XP Progression          | Milestone
 - **Hazards:**
   - [Dominion Disposal Chamber^](Hazards/README.md#dominion-disposal-chamber)
  
-- **Treasure:**
+- **Loot:**
   - 1x [Pale Lavender Ellipsoid Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407)
  
 ### M5. Hive Power Stations (?? XP, ??? Threat)
