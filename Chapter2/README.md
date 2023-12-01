@@ -42,7 +42,7 @@ The town offers to pay the PCs a reward of 450 gp if they can ensure no further 
 
 ### Contacting Dinvaya
 
-Joram Kyte promises to give the PCs his [*wand of continuation (1st-level spell)*](https://2e.aonprd.com/Equipment.aspx?ID=369) as a reward once they complete his mission.
+Joram Kyte promises to give the PCs his [*wand of technological superiority (3rd-level spell)*](/Items/README.md#wand-of-technological-superiority-3rd-level) as a reward once they complete his mission.
 
 ### A1. Barbican
 
