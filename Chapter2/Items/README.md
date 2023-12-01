@@ -52,3 +52,13 @@ On a successful hit, the creature struck by the mind burner must make a DC 21 Wi
 **Activate** (1 action) Interact;
 
 **Saving Throw** DC 19 Fortitude; **Maximum Duration** 1 hour; **Stage 1** regain 1d8 Hit Points, immune to bleed and anytime you gain the frightened condition, reduce its value by 1 (1 minute); **Stage 2** stupefied 1 (1 hour)
+
+## Wand of Technological Superiority (3rd-Level)
+
+**Traits** Electricity, Magical, Wand
+
+**Level** 8; **Price** 500 gp; **Usage** held in 1 hand; **Bulk** L
+
+This wand is made of various plates of glaucite and copper.
+
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [Recharge^](/Technology%20Guide#recharge), but the spell restores an additional charge at each DC.
