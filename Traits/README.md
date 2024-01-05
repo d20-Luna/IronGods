@@ -73,11 +73,13 @@ This weapon is crafted using traditional methods and materials but is not suitab
 ### Area (burst, cone, line)
 
 Weapons with this trait can only fire using the Area Fire action.
+
 **Area Fire** [two actions] (area, attack) You target each creature in the designated area with a range equal to the weapon’s range increment (for cone or line) or the designated radius of the explosion (for burst). For burst, you can position the center point anywhere within your first range increment. Any creatures in the area must succeed at a basic Reflex save against your class DC plus the tracking value of the weapon (you don’t roll an attack roll). This damage is area damage. Creatures that critically fail this save are subject to effects that occur on a critical hit with this weapon, including the weapon’s critical specialization effect.
 
 ### Automatic
 
 In addition to a normal Strike, you can fire this weapon using the Automatic Fire action.
+
 **Automatic Fire** [two actions] (area, attack) You hit each creature in a cone with a range equal to half the weapon’s range increment. Any creatures in the area must succeed at a basic Reflex save against your class DC plus the tracking value of the weapon (you don’t roll an attack roll). This damage is area damage. Creatures that critically fail this save are subject to effects that occur on a critical hit with this weapon, including the weapon’s critical specialization effect. Automatic Fire has a usage equal to half the weapon’s maximum capacity.
 
 ### Capacity
@@ -87,6 +89,7 @@ Most weapons take batteries or have magazines to allow for multiple shots. The c
 ### Graviton
 
 In addition to a normal Strike, you can fire this weapon using the Graviton Push action.
+
 **Graviton Push** [two actions] (force) You fire a specialized beam of gravitons at a creature or object within the weapon's first range increment. The graviton beam can be used to move and manipulate objects at a distance, similar to a *telekinetic haul* or a *telekinetic maneuver* spell. The graviton beam can move objects of no more than 20 Bulk up to 20 feet per round. If used as a *telekinetic maneuver*, the action gains the attack trait and uses the weapon's attack modifier instead of a spell attack modifier. Graviton Push has a usage of 2.
 
 ### Grenade
