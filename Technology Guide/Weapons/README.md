@@ -124,7 +124,7 @@ EMP rifles contain a series of electromagnetically-charges spikes within their b
 
 **Level** 0 (Commercial, Tactical), 2 (Advanced); **Price** 2 gp (Commercial), 4 gp (Tactical), 30 gp (Advanced); **Damage** 1d6 F (Commercial, Tactical), 2d6 F (Advanced); **Bulk** 1; **Hands** 1; **Range** 120 feet
 
-**Weapon Group** [Flame^](/Traits/README.md#flame); **Traits** [Area^](/Traits/README.md#area) (burst 5 ft.), [Analog^](/Traits/README.md#analog), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
+**Weapon Group** [Flame^](/Traits/README.md#flame); **Traits** [Area^](/Traits/README.md#area-burst-cone-line) (burst 5 ft.), [Analog^](/Traits/README.md#analog), [Tracking +1^](/Traits/README.md#tracking) (Tactical, Advanced)
 
 **Capacity** -; **Usage** 1; **Reload** -; **Upgrades** -
 
@@ -310,7 +310,7 @@ When activated with an Interact action, a plasma blade’s heavy, ornate handle 
 
 **Level** 2 (Tactical), 4 (Advanced); **Price** 100 gp (Tactical), 200 gp (Advanced); **Damage** Special; **Bulk** 2; **Hands** 2; **Range** 100 feet
 
-**Weapon Group** [Projectile^](/Traits/README.md#projectile); **Traits** [Area^](/Traits/README.md#area) (burst 20 ft.), [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking), [Unwieldy^](/Traits/README.md#unwieldy)
+**Weapon Group** [Projectile^](/Traits/README.md#projectile); **Traits** [Area^](/Traits/README.md#area-burst-cone-line) (burst 20 ft.), [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking), [Unwieldy^](/Traits/README.md#unwieldy)
 
 **Capacity** 20 charges/5 grenades; **Usage** 1; **Reload** 1/1; **Upgrades** 1 (Tactical), 2 (Advanced)
 
