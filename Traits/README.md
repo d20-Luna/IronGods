@@ -111,12 +111,17 @@ Items with the Signal trait can remotely interact with other objects via a wirel
 ### Timeworn
 
 Items with the timeworn trait cannot be recharged and always has the new glitching condition with a value of 3. Items with the timeworn trait are treated as having the tech trait for the purpose of the glitching condition.
+
 ***New Condition: Glitching***
 
 Glitching is a condition that affects objects or creatures with the tech trait, and it always includes a value. A glitching creature or object experiences a combination of debilitating effects and moments of seizing up. If you have glitching equipment and take any action involving that equipment, you must attempt a DC 10 flat check to see what occurs. If you have the glitching condition on yourself, you must make this flat check at the beginning of every round.
+
 **Critical Success** Reduce the glitching value by 1.
+
 **Success** You act as normal or use your equipment as normal.
+
 **Failure** You take an item penalty on all your checks and DCs equal to your glitching value or the glitching value on the item you’re attempting to use.
+
 **Critical Failure** You count as stunned 1 for the round. Alternatively, the object you tried to use doesn’t function, and you lose the actions you took to attempt to use it.
 
 ### Tracking
