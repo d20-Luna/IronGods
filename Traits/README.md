@@ -95,3 +95,47 @@ Items with the Powered trait require electronic power to activate, which usually
 ### Signal
 
 Items with the Signal trait can remotely interact with other objects via a wireless signal. Signals usually state their range in their entries and are affected according to the sidebar on *[Technology Guide, pg. 43](https://paizo.com/products/btpy98i0?Pathfinder-Campaign-Setting-Technology-Guide)*
+
+## New Weapon Groups and Specializations
+
+The following are bespoke critical specialization effects for our new groups of weapons.
+
+### Cryo
+
+The target must succeed at a Fortitude save against your class DC or be stunned 1.
+
+### EMP
+
+The target must succeed at a Fortitude save against your class DC or be stunned 1.
+
+### Flame
+
+The target takes 1d6 persistent fire damage. You gain an item bonus to this fire damage equal to the weapon's tracking bonus.
+
+### Gravity
+
+The target is moved 5 feet in a direction of your choice. This is forced movement. The target is then knocked prone.
+
+### Laser
+
+The target must succeed at a Fortitude save against your class DC or be dazzled until the start of your next turn.
+
+### Mental
+
+The target must succeed at a Will save against your class DC or be stupefied 1 until the end of your next turn.
+
+### Plasma
+
+The target takes 1d4 persistent electricity damage and 1d4 persistent fire damage. You gain an item bonus to this electricity and fire damage equal to the weapon's tracking bonus.
+
+### Projectile
+
+The target must succeed at a Fortitude save against your class DC or be slowed 1 until the end of your next turn.
+
+### Shock
+
+The target must succeed at a Fortitude save against your class DC or be stunned 1.
+
+### Sonic
+
+The target must succeed at a Fortitude save against your class DC or be deafened until the end of your next turn.
