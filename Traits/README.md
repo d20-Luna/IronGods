@@ -58,22 +58,6 @@ Robots typically follow the following template:
 
 Outside of Numeria, Robots may have the Rare trait but within the land they only have Uncommon as many of the citizens there have at least heard of one.
 
-## Effect Traits
-
-### Beam
-
-Beams are rays of focused energy from technological sources that capable of inflicting a variety of effects - painful or otherwise. Some equipment, such as the [Scatterlight Suit](/Technology%20Guide/Armor/README.md#scatterlight-suit) are specifically designed to counter such rays. 
-
-Note that a beam is specifically technologic in nature. Spells such as [*ray of enfeeblement*](https://2e.aonprd.com/Spells.aspx?ID=244) do not get affected by anything that affects beams.
-
-### Laser
-
-Lasers are beams of intensely focused light capable of burning anything it strikes. Weapons and effects with the Laser trait are unaffected by force barriers and transparent physical barriers like windows. Invisible creatures are immune to Laser effects and damage from a Laser weapon.
-
-### Plasma
-
-Plasma is superheated, electrically charged gas. Effects with the plasma trait typically deal both fire and electricity damage in equal amounts. For effects that deal persistent damage, treat it as dealing persistent fire damage only.
-
 ## Equipment Traits
 
 ### Grenade
