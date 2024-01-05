@@ -70,7 +70,8 @@ This weapon eschews advanced electronics, computers systems, and electric power 
 
 This weapon is crafted using traditional methods and materials but is not suitable for striking tech armor. All weapons from Pathfinder Second Edition have the archaic trait. Weapon runes (as found in Pathfinder) function normally with archaic weapons.
 
-### Area (burst, cone, line)
+### Area 
+**(burst, cone, line)**
 
 Weapons with this trait can only fire using the Area Fire action.
 
