@@ -306,35 +306,41 @@ When activated with an Interact action, a plasma blade’s heavy, ornate handle 
  
 # Martial Ranged Weapons
 
-## Grenade Launcher
+## Grenade Launcher (Tactical, Advanced)
 
-This bulky, handheld cannon has a wicked design that can fire any grenade a great distance. A grenade launcher can only fire grenades in the order it was loaded. Grenades fires from a grenade launcher are automatically set to detonate upon impact, dealing their usual effects when detonated, save for their save DCs are equal to your Class DC.
+**Level** 2 (Tactical), 4 (Advanced); **Price** 100 gp (Tactical), 200 gp (Advanced); **Damage** Special; **Bulk** 2; **Hands** 2; **Range** 100 feet
 
-## Plasmathrower
+**Weapon Group** [Projectile^](/Traits/README.md#projectile); **Traits** [Area^](/Traits/README.md#area) (burst 20 ft.), [Tech^](/Traits/README.md#tech), [Tracking +1^](/Traits/README.md#tracking), [Unwieldy^](/Traits/README.md#unwieldy)
+
+**Capacity** 20 charges/5 grenades; **Usage** 1; **Reload** 1/1; **Upgrades** 1 (Tactical), 2 (Advanced)
+
+This bulky, handheld cannon has a wicked design that can fire any grenade a great distance. A grenade launcher can only fire grenades in the order it was loaded. Grenades fired from a grenade launcher are automatically set to detonate upon impact, dealing their usual effects when detonated, save for their save DCs are equal to your Class DC.
+
+## Plasmathrower (Tactical, Advanced)
 
 A plasmathrower is a devastating weapon that fires blasts of superheated, electrically charged gas. Half the damage dealt by a plasmathrower is fire damage and the other half is electricity damage.
 
-## Rotoarc
+## Rotoarc (Tactical, Advanced)
 
 Rotoarcs employ a moving array of pronged emitters protruding from a rotating set of barrels to fire a series of short electrical blasts in an area. Rotoarcs can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight. If the target is wearing metal armor or has the metal trait, you gain a +2 circumstance bonus to your attack roll, the target takes a -2 circumstance penalty on saving throws against Automatic Fire, and the target also takes 1d6 persistent electricity damage on a hit. On a critical hit, double the initial damage, but not the persistent damage.
 
-## Rotoboom
+## Rotoboom (Tactical, Advanced)
 
 Rotobooms employ a rotating set of barrels, each with a powerful amplifier at their tip, that allow for a series of rapid sonic bursts in an area. Rotobooms can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight. If the target has the construct trait, ignore any hardness they possess unless they also have a resistance or immunity to sonic damage.
 
-## Rotocryo
+## Rotocryo (Tactical, Advanced)
 
 Employing a rotating set of barrels that allow a series of short super-cooled energy blasts in an area, rotocryos can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight. If the target has the water trait, you gain a +2 circumstance bonus to your damage roll, and the target also takes 1d6 persistent cold damage on a hit. On a critical hit, double the initial damage (including the circumstance bonus), but not the persistent damage.
 
-## Rotograv
+## Rotograv (Tactical, Advanced)
 
 Rotogravs employ a moving array of forked prongs affixed to a rotating set of barrels that allow for a series of short graviton beams in an area. Rotogravs can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight.
 
-## Rotolaser
+## Rotolaser (Tactical, Advanced)
 
 Employing a moving array of lenses, this weapon also uses a rotating set of barrels that allow for a series of short laser blasts in an area. Rotolasers can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight. A rotolaser's beams can pass through glass and other transparent physical barriers, dealing damage to such barriers as they pass through. Barriers of energy or magical force block lasers. Invisible creatures don’t take damage from lasers, as the beams pass through them harmlessly. Fog, smoke, and other clouds provide both cover and concealment from laser attacks. Lasers can penetrate darkness, but they don’t provide any illumination.
 
-## Rotopulse
+## Rotopulse (Tactical, Advanced)
 
 Rotopulses employ a moving array of electromagnetically-charged spikes protruding from a rotating set of barrels that allow for a series of short energy blasts in an area. Rotopulses can unleash a blistering hail of fire or be calibrated to fire single shots in short succession without worrying about depleting ammunition. They only deal full damage to creatures with the tech trait, and half damage to androids, automatons, and creatures with cybernetic implants. Rotopulses straddle the line between being a full area suppression weapon and a tactical rifle, though paying for that price in weight.
 
@@ -342,19 +348,19 @@ Rotopulses employ a moving array of electromagnetically-charged spikes protrudin
 
 Weapon upgrades function as high-tech runes. The runic effects they grant to their upgraded weapons are high-tech in nature, not magical. Their effects do not apply to Automatic Fire actions taken, but do apply to Area Fire actions taken. Weapon upgrades expend a single charge with each Strike or Area Fire of the upgraded weapon, whether the Strike or Area Fire results in a success or not.
 
-## Arc Coil
+## Arc Coil (Standard, Advanced)
 
 Arc coils are weapon upgrades that empower their weapons with electrical abilities. Arc coils grant the upgraded weapon the effects of a shock rune. Advanced arc coils instead grant the upgraded weapon the effects of a greater shock rune.
 
-## Blaze Burner
+## Blaze Burner (Standard, Advanced)
 
 Blaze burners are weapon upgrades that empower their weapons with fiery abilities. Blaze burners grant the upgraded weapon the effects of a flaming rune. Advanced blaze burners instead grant the upgraded weapon the effects of a greater flaming rune.
 
-## Corrosivial
+## Corrosivial (Standard, Advanced)
 
 Corrosivials are weapon upgrades that empower their weapons with acidic abilities. Corrosivials grant the upgraded weapon the effects of a corrosive rune. Advanced corrosivials instead grant the effects of a greater corrosive rune.
 
-## Cryo Coolant
+## Cryo Coolant (Standard, Advanced)
 
 Cryo coolants are weapon upgrades that empower their weapons with icy abilities. Cryo coolants grant the upgraded weapon the effects of a frost rune. Advanced cryo coolants instead grant the upgraded weapon the effects of a greater frost rune.
 
@@ -362,7 +368,7 @@ Cryo coolants are weapon upgrades that empower their weapons with icy abilities.
 
 Ectopulsars are weapon upgrades that envelop their weapons in quantum fields. Ectopulsars grant the upgraded weapon the effects of a ghost touch rune.
 
-## Gravity Clip
+## Gravity Clip (Standard, Advanced)
 
 Gravity clips are weapon upgrades that momentarily increase the mass of their weapons. Gravity clips increase the upgraded weapon's number of damage dice by 1. Advanced gravity clips instead increase the upgraded weapon's number of damage dice by 2.
 
@@ -370,7 +376,7 @@ Gravity clips are weapon upgrades that momentarily increase the mass of their we
 
 Homing beacons are weapon upgrades that lock onto their weapons' targets. Homing beacons increase the likelihood of a successful Strike with the upgraded weapon, by allowing the user to roll their Strike twice and take the higher roll.
 
-## Stabilizer
+## Stabilizer (Standard, Advanced)
 
 Stabilizers are weapon upgrades that balance their weapons. Stabilizers increase the upgraded weapon's tracking value by 1. Advanced stabilizers instead increase the upgraded weapon's tracking value by 2.
 
