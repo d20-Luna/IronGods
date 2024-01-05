@@ -72,10 +72,6 @@ Items with the Module trait usually need to be slotted in another item before th
 
 A Pharmaceutical is typically an alchemical consumable that is activated by either ingesting them, or having them injected into a creature with the use of a [medlance^](/Technology%20Guide/Gear/README.md#medlance). To identify a pharmaceutical, use the [Identify Pharmaceutical^](/Technology%20Guide/README.md#identify-pharmaceutical) action.
 
-### Powered
-
-Items with the Powered trait require electronic power to activate, which usually come in the form of battery charges but can also be gotten directly from a power generator's yield (See full rules on power generators in *[Technology Guide, pg. 62](https://paizo.com/products/btpy98i0?Pathfinder-Campaign-Setting-Technology-Guide)*). Most powered items list a 'Capacity' entry to indicate how many charges it can store, and a 'Power Use' entry to show how many charges are used per activation.
-
 ### Signal
 
 Items with the Signal trait can remotely interact with other objects via a wireless signal. Signals usually state their range in their entries and are affected according to the sidebar on *[Technology Guide, pg. 43](https://paizo.com/products/btpy98i0?Pathfinder-Campaign-Setting-Technology-Guide)*
