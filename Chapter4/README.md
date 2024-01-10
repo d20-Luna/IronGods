@@ -44,7 +44,7 @@ Level | XP Progression          | Milestone
 ### B. Infested Cavern (36 XP, Trivial Threat)
 
 - **Creatures:**
-  - 3x [Red Mold Ogre Spiders^](Creatures/README.md#red-mold-ogre-spiders)
+  - 3x [Red Mold Ogre Spiders^](Creatures/README.md#red-mold-ogre-spider)
  
 - **Hazards:**
   - [Red Mold Spores^](Hazards/README.md#red-mold-spores)
