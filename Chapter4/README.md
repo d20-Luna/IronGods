@@ -152,7 +152,7 @@ Level | XP Progression          | Milestone
   - 3x [Torturer Robots^](Creatures/README.md#torturer-robot)
  
 - **Loot:**
-  - *[+2](https://2e.aonprd.com/Equipment.aspx?ID=281) [Striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [Double-Barreled Pistol](https://2e.aonprd.com/Weapons.aspx?ID=199)
+  - *[+2](https://2e.aonprd.com/Equipment.aspx?ID=281) [Striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [Double-Barreled Pistol](https://2e.aonprd.com/Weapons.aspx?ID=199)*
   - 3x [Lesser Magnetic Bullets](https://2e.aonprd.com/Equipment.aspx?ID=2054)
   - 1x [Wayfinder](https://2e.aonprd.com/Equipment.aspx?ID=470)
 
@@ -170,7 +170,7 @@ Level | XP Progression          | Milestone
   - **Seek (Perception): DC 30 -** To confirm the large slab to the west is a massive glaucite door.
 
 - **Hazards:**
-  - [Steam Blast^](Hazards/README.md#steam#blast)
+  - [Steam Blast^](Hazards/README.md#steam-blast)
 
 ### E10. Generator Controls
 
@@ -376,7 +376,7 @@ Level | XP Progression          | Milestone
 
 - **Loot:**
   - 1x *[+2](https://2e.aonprd.com/Equipment.aspx?ID=278) [Greater Resilient](https://2e.aonprd.com/Equipment.aspx?ID=279) [Chain Shirt](https://2e.aonprd.com/Armor.aspx?ID=6)*
-  - 1x *[+2](https://2e.aonprd.com/Equipment.aspx?ID=281) [Greater Striking](https://2e.aonprd.com/Equipment.aspx?ID=280] [Shifting](https://2e.aonprd.com/Equipment.aspx?ID=302) [Longsword](https://2e.aonprd.com/Weapons.aspx?ID=31)
+  - 1x *[+2](https://2e.aonprd.com/Equipment.aspx?ID=281) [Greater Striking](https://2e.aonprd.com/Equipment.aspx?ID=280] [Shifting](https://2e.aonprd.com/Equipment.aspx?ID=302) [Longsword](https://2e.aonprd.com/Weapons.aspx?ID=31)*
   - Leather Pouch
     - 12x Amethysts (worth 10 gp each)
     - 10x [Batteries^](/Technology%20Guide/Gear#battery)
@@ -433,7 +433,7 @@ Level | XP Progression          | Milestone
 ### L8. The Shipmind (?? XP, ??? Threat)
 
 - **Creatures:**
-  - 1x [The-Stars-Whisper](Creatures/README.md#deteriorating-shipmind)
+  - 1x [The-Stars-Whisper^](Creatures/README.md#deteriorating-shipmind)
  
 - **Loot:**
   - 16x Yellow Topazes (worth 50 gp each)
@@ -523,7 +523,7 @@ Level | XP Progression          | Milestone
   - **Trick Magic Item (Occultism): DC 32 -** To trick the pad into activating.
  
 - **Creatures:**
-  - 4x [Ugothokras](Creatures/README.md#ugothokra)
+  - 4x [Ugothokras^](Creatures/README.md#ugothokra)
  
 ### M12. Plasma Pits (?? XP, ??? Threat)
 
@@ -559,8 +559,8 @@ d%     | Result                                                               | 
 -------|----------------------------------------------------------------------|----------------
 01-04  | 1d8 [brain collector](https://2e.aonprd.com/Monsters.aspx?ID=57)     | 12
 05-10  | 1d3 [chyzaedu](https://2e.aonprd.com/Monsters.aspx?ID=1093)          | 12
-11-13  | 1d12 [moonflower](https://2e.aonprd.com/Monsters.aspx?ID=730)         | 12
-14-17  | [Isuma](Creatures/README.md#isuma)                                     | 12
+11-13  | 1d12 [moonflower](https://2e.aonprd.com/Monsters.aspx?ID=730)        | 12
+14-17  | [Isuma](Creatures/README.md#isuma)                                   | 12
 18-21  |          | 12
 22-33  |                                 | 12
 34-36  | 1d4 [gosreg](https://2e.aonprd.com/Monsters.aspx?ID=687)             | 13
