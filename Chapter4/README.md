@@ -114,7 +114,7 @@ Level | XP Progression          | Milestone
 
 - **Loot:**
   - 1x Blue Sapphire (worth 100 gp)
-  - 1x [Firedrake Pistol^](Items/README.md#firedrake-pistol)
+  - 1x [Firedrake Pistol^](Items/README.md#drake-pistol)
   - 1x [Compassion Facet^](Items/README.md#memory-facet)
 
 ## Part 2: An Alien Ally
