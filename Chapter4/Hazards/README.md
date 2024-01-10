@@ -19,3 +19,23 @@ Use the PF2 Tools JSON files with [https://template.pf2.tools/]. Be aware these 
 
 * [PF2 Tools JSON](PF2Tools/RedMoldSpores.json)
 * [PDF](PDFs/RedMoldSpores.pdf)
+
+### Grenade Trap
+
+### Steam Blast
+
+### Toxic Sludge
+
+### Dominion Plague
+
+### Rotting Floor Explosion
+
+### Shrieking Incubator
+
+### Dominion Disposal Chamber
+
+### Dominion Brain Pillar
+
+### Plasma Pit
+
+### 
