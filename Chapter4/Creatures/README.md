@@ -8,14 +8,34 @@ Use the PF2 Tools JSON files with [https://monster.pf2.tools/]. Be aware these d
 
 ## Named NPCs
 
-### ???
+### Mad Paeytr
 
-![???](PNGs/???.png)
+![Mad Paeytr](PNGs/MadPaeytr.png)
 
-* [PF2 Tools JSON](PF2Tools/???.json)
-* [PDF](PDFs/???.pdf)
+* [PF2 Tools JSON](PF2Tools/MadPaeytr.json)
+* [PDF](PDFs/MadPaeytr.pdf)
 
-Notes.
+### Harab
+
+### Hyrsek Caio
+
+### Nemgedder Janz
+
+### Isuma
+
+### Shub-Niggurath
+
+### Lrrhech
+
+### Engine Attendant
+
+### Deteriorating Shipmind
+
+### Maukui
+
+### Paajgat
+
+### Casandalee
 
 ## New Creatures
 
@@ -27,3 +47,38 @@ Notes.
 * [PDF](PDFs/RedMoldOgreSpider.pdf)
 
 Red Mold Ogre Spider is built as an Ogre Spider increased to 8th Level with reduced Dexterity and the Mindless trait, granted Fast Healing and Resistance to physical damage, and the Aberration type instead of Animal.
+
+### Yangethe
+
+![Yangethe](PNGs/Yangethe.png)
+
+* [PF2 Tools JSON](PF2Tools/Yangethe.json)
+* [PDF](PDFs/Yangethe.pdf)
+
+### Penitent Android
+
+### Torturer Robot
+
+### Guardian of Binox
+
+### Reclamation Robot
+
+### Elite Voonith
+
+### Chaos Beast of Shub-Niggurath
+
+### Colour-Blighted Froghemoth
+
+### Colour Out of Space
+
+### Elite Lukwata
+
+### Damaged Annihilator Robot
+
+### Ugothokra
+
+### Inhabited Kasatha
+
+### Adult Void Dragon
+
+### Yah-Thelgaad
