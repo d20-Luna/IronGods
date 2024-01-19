@@ -95,6 +95,11 @@ Red Mold Ogre Spider is built as an Ogre Spider increased to 8th Level with redu
 
 ### Inhabited Kasatha
 
+![Inhabited Kasatha](PNGs/InhabitedKasatha.png)
+
+* [PF2 Tools JSON](PF2Tools/InhabitedKasatha.json)
+* [PDF](PDFs/InhabitedKasatha.pdf)
+
 ### Adult Void Dragon
 
 ### Yah-Thelgaad
