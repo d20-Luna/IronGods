@@ -10,11 +10,6 @@ Use the PF2 Tools JSON files with [https://monster.pf2.tools/]. Be aware these d
 
 ### Mad Paeytr
 
-![Mad Paeytr](PNGs/MadPaeytr.png)
-
-* [PF2 Tools JSON](PF2Tools/MadPaeytr.json)
-* [PDF](PDFs/MadPaeytr.pdf)
-
 ### Harab
 
 ### Hyrsek Caio
@@ -24,6 +19,11 @@ Use the PF2 Tools JSON files with [https://monster.pf2.tools/]. Be aware these d
 ### Isuma
 
 ### Shub-Niggurath
+
+![Shub-Niggurath](PNGs/ShubNiggurath.png)
+
+* [PF2 Tools JSON](PF2Tools/ShubNiggurath.json)
+* [PDF](PDFs/ShubNiggurath.pdf)
 
 ### Lrrhech
 
