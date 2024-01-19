@@ -59,6 +59,11 @@ Red Mold Ogre Spider is built as an Ogre Spider increased to 8th Level with redu
 
 ### Torturer Robot
 
+![Torturer Robot](PNGs/TorturerRobot.png)
+
+* [PF2 Tools JSON](PF2Tools/TorturerRobot.json)
+* [PDF](PDFs/TorturerRobot.pdf)
+
 ### Guardian of Binox
 
 ### Reclamation Robot
