@@ -14,7 +14,15 @@ A battery contains 10 charges when full. It is a single Interact action to inser
 
 **Traits** Rare, [Signal^](/Traits/README.md#signal), [Tech^](/Traits/README.md#tech)
 
-**Level** 12; **Price** 2,000 gp; **Hands** 1; **Bulk** L; **Capacity** 10; **Power Use** 1 charge/hour; **Craft DC** 27
+**Level** 12; **Price** 2,000 gp
+
+**Hands** held in 1 hand; **Bulk** L
+
+**Capacity** 10; **Power Use** 1 charge/hour
+
+***STILL UPDATING***
+
+A commset's power is provided by a [battery^](#battery). A fully charged battery has 10 charges. A charge is expended whenever the device is activated, as detailed below in its "Charges" entry.
 
 When a message is broadcast on a commset, all other active commsets tuned to the same frequency within 1 mile will play the broadcasted message. Activating or deactivating a commset is a single interact action, and the commset uses 1 charge of power for each hour it remains active. Inactive commsets will not receive, play or broadcast messages.
 
@@ -100,7 +108,11 @@ Wearing the mask gives a +2 item bonus to all saving throws made to resist inhal
 
 **Traits** Consumable, Gadget
 
-**Level** 6; **Price** 400 gp; **Hands** 2; **Bulk** 1; **Uses** 10; **Craft DC** 26
+**Level** 6; **Price** 400 gp
+
+**Usage** held in 2 hands; **Bulk** 1
+
+***STILL UPDATING***
 
 **Activate** (2 actions) Interact; **Effect** You create 15 foot cone of misty vapor that extinguishes all nonmagical fires within its area of effect. For each continuous magical fire effect in the cone, make a counteract check at a +11 modifier. If it succeeds the effect is suppressed for 1 minute before it automatically reignites. A creature affected by persistent fire damage within the cone of effect may make a DC 10 flat check to end their condition immediately.
 
@@ -113,6 +125,10 @@ Wearing the mask gives a +2 item bonus to all saving throws made to resist inhal
 **Price** 3 gp; **Hands** 1; **Bulk** L; **Capacity** 10; **Power Use** 1 charge/8 hours; **Craft DC** 16
 
 A flashlight emits bright light in a 60 foot cone and dim light in the next 60 feet when activated.
+
+## Force Field
+
+***STILL UPDATING***
 
 ## Goo Tube
 
@@ -211,7 +227,11 @@ When used to bind a creature, a few strips of activated ion tape require a succe
 
 ## Magboots
 
-**Level** 4; **Price** 100 gp; **Usage** worn shoes; **Bulk** 1; **Craft DC** 20
+**Level** 4; **Price** 100 gp
+
+**Usage** worn shoes; **Bulk** 1
+
+***STILL UPDATING***
 
 **Activate** (Free) Envision; **Power Use** 1 charge/hour; **Effect** You gain a climb speed equal to your land speed like [*spider climb*](https://2e.aonprd.com/Spells.aspx?ID=299) but only on metal surfaces.
 
@@ -262,6 +282,10 @@ Prismatic   | 20    | 13,500 gp | 35       | 9d8+17  | Casts *[revival](http://2
 **Price** 30 gp; **Bulk** L; **Craft DC** 20
 
 It is a 3-action Activity to connect a technological device to a generator via a power cable.
+
+## Power Receiver
+
+***STILL UPDATING***
 
 ## Radiation Detector
 
