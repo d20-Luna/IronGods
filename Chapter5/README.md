@@ -1,12 +1,173 @@
-# Title of AP
+# Palace of Fallen Stars Lv 15 - 18
 
-[A Series of Dice-Based Events Discord](https://discord.gg/UQ8UD3H)
+## Table of Contents
 
-A repository to hold tools for those wishing to run and convert Title of AP to Pathfinder 2E.
+- [Part 1: Into Starfall](#part-1-into-starfall)
+- [Part 2: The Black Sovereign](#part-2-the-black-sovereign)
+- [Part 3: The Technic League](#part-3-the-technic-league)
+- [Starfall Encounters](#starfall-encounters)
 
-The README.md files can have simple breakdowns of modified DCs for various tasks brought up in the Adventure while the individual folders can hold the files for the monster/NPC stat blocks.
+## Advancement Track
 
-## Recommended Tool
+Level | XP Progression          | Milestone
+------|-------------------------|------------------------
+15    | PCs begin at Lv 15      | PCs begin at Lv 15
+16    | After completing Part 1 | After completing Part 1
+17    | After completing Part 2 | After completing Part 2
+18    | After completing Area 3 | After completing Area 3
 
-http://monster.pf2.tools/ uses JSON files that can be easily imported/exported. This repository ideally will hold those files publicly sourced and created, as well as other tools/files. 
-Please do not submit PDF files or entire texts of the AP. Only submit modifications for the DC and NPCs/Monsters. Please also include a page number/map section label so GMs can cross-reference.
+## Part 1: Into Starfall
+
+### Arrival in Starfall
+
+### Word on the Street
+
+### Meeting Mockery
+
+### A. Red Reaver
+
+### A1. Red Reaver Tavern
+
+### A2. Oblivion Rooms
+
+### A3. Alchemy Lab
+
+### A4. Cybernetics Laboratory
+
+### B. Night Market
+
+### The Ambush
+
+### A Mysterious Message
+
+## Part 2: The Black Sovereign
+
+### C. Palace of Fallen Stars
+
+### C5. Drug Parlor
+
+### C13. Tek Makul's Suite
+
+### C14. The Hanging Chamber
+
+### C15. Training Hall
+
+### C18. The Garden
+
+### C23. Stinkmouth's Chamber
+
+### C27. Sovereign's Baths
+
+### C29. Throne Hall Access
+
+### Sovereign's Throne Hall
+
+### C41. Dungeon Entrance
+
+### C42. Harvestman's Hall
+
+### C43. Black Sovereign's Vault
+
+### C44. Bonehall
+
+## Part 3: The Technic League
+
+### D1. Gate of Flowers
+
+### D2. Compound Wall
+
+### D3. Mustering Hall
+
+### D4. Gate Controls
+
+### D5. Slave Stockyards
+
+### D7. Guard Platform
+
+### D8. Signal Boosters
+
+### D9. Dorm Foyer
+
+### D11. Captain's Quarters
+
+### D12. Common Room
+
+### D13. Dorm Rooms
+
+### D14. Workshop
+
+### D15. Blast Furnaces
+
+### D17. Silos
+
+### E. Technic League Headquarters
+
+### E1. Headquarters Entry
+
+### E3. Data Banks
+
+### E4. Production Laboratory
+
+### E5. Storeroom
+
+### E7. Upstairs Foyer
+
+### E8. Captain's Quarters
+
+### E9. Pharmaceutical Laboratory
+
+### E10. Military Production Lab
+
+### E11. Robotics Laboratory
+
+### E12. Zernebeth's Quarters
+
+### E13. Ozmyn's Quarters
+
+### F1. Northern Entrance
+
+### F2. Sellsword Barracks
+
+### F3. Commander's Quarters
+
+### F4. Storeroom
+
+### F6. Security Station
+
+### F8. Meeting Room
+
+### F9. Robot Hanger
+
+### F10. Nanotech Laboratory
+
+### F11. Acid Pits
+
+### F12. Dormitory Stairs
+
+### F13. Guardpost
+
+### F14. Secret Tunnel
+
+### F15. Reactor Chamber
+
+### G1. Gardener's Post
+
+### G3. Meat Garden
+
+### G4. Drainage Cavern
+
+### H1. Prison Guardpost
+
+### H2. Incinerator Room
+
+### H3. Radioactive Chamber
+
+### H4. Cells
+
+### H5. Experimental Lab
+
+### H6. Surgical Theater
+
+### H7. Transformation Chamber
+
+## Starfall Encounters
