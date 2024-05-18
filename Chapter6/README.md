@@ -1,12 +1,33 @@
-# Title of AP
+# The Divinity Drive Lv 18 - 20
 
-[A Series of Dice-Based Events Discord](https://discord.gg/UQ8UD3H)
+## Table of Contents
 
-A repository to hold tools for those wishing to run and convert Title of AP to Pathfinder 2E.
+- [Part 1: Scaling Silver Mount](#part-1-scaling-silver-mount)
+- [Part 2: Within Divinity](#part-2-within-divinity)
+- [Part 3: Inside the Godmind](#part-3-inside-the-godmind)
+- [Silver Mount Encounters](#silver-mount-encounters)
 
-The README.md files can have simple breakdowns of modified DCs for various tasks brought up in the Adventure while the individual folders can hold the files for the monster/NPC stat blocks.
+## Advancement Track
 
-## Recommended Tool
+Level | XP Progression                       | Milestone
+------|--------------------------------------|-------------------------------------
+18    | PCs begin at Lv 18                   | PCs begin at Lv 18
+19    | After completing the Recreation Deck | After completing the Recreation Deck
+20    | Before entering the Godmind          | Before entering the Godmind
 
-http://monster.pf2.tools/ uses JSON files that can be easily imported/exported. This repository ideally will hold those files publicly sourced and created, as well as other tools/files. 
-Please do not submit PDF files or entire texts of the AP. Only submit modifications for the DC and NPCs/Monsters. Please also include a page number/map section label so GMs can cross-reference.
+## Part 1: Scaling Silver Mount
+
+### Reaching the Entrance
+
+## Part 2: Within Divinity
+
+### Dimensional Travel
+
+### Doors
+
+### Laser Turrets
+
+### A. Secondary Engineering Deck
+
+### A1. Ruined Airlock
+
