@@ -24,13 +24,26 @@ Level | XP Progression          | Milestone
 
 ### Meeting Mockery
 
+- **Creatures:**
+  - [Mockery^]
+
 ### A. Red Reaver
 
 ### A1. Red Reaver Tavern
 
+- **Creatures:**
+  - [Saoria^]
+
 ### A2. Oblivion Rooms
 
+- **Loot:**
+  - 650 gp worth of [alcohol](https://2e.aonprd.com/Equipment.aspx?ID=622), [flayleaf](https://2e.aonprd.com/Equipment.aspx?ID=624), [refinded pesh](https://2e.aonprd.com/Equipment.aspx?ID=626), and similar drugs
+
 ### A3. Alchemy Lab
+
+- **Loot:**
+  - The lab functions as an [Expanded Alchemist's Lab](https://2e.aonprd.com/Equipment.aspx?ID=2701).
+  - 12x [Numerian Fluids^]
 
 ### A4. Cybernetics Laboratory
 
