@@ -140,7 +140,7 @@ A flare gun looks like a wide-barreled pistol, and although it can be used in co
 
 Gravity pistols use forked prongs protruding from their barrels to fire specialized beams of gravitons to batter and reposition foes.
 
-## Gravity Rifle(Commercial, Tactical, Advanced)
+## Gravity Rifle (Commercial, Tactical, Advanced)
 
 **Level** 4 (Commercial), 6 (Tactical), 8 (Advanced); **Price** 130 gp (Commercial), 260 gp (Tactical), 500 gp (Advanced); **Damage** 1d10 Fo (Commercial, Tactical), 2d10 Fo (Advanced); **Bulk** 2; **Hands** 2; **Range** 100 feet
 
