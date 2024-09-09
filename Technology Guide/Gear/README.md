@@ -4,9 +4,9 @@ New traits will be indicated with a carat (^) and are linked to their explanatio
 
 ## Battery
 
-**Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
+**Traits** [Tech^](/Traits/README.md#tech)
 
-**Price** 10 gp; **Bulk** L; **Craft DC** 25
+**Price** 10 gp; **Bulk** -
 
 A battery contains 10 charges when full. It is a single Interact action to insert or eject a battery from an item. Much like a [repeating](http://2e.aonprd.com/Traits.aspx?ID=374) weapon, it is often 3 Interact actions to replace an empty battery (eject used battery, retrieve new battery, insert new battery). When recharging a battery at a generator, roll a DC 4 flat check. On a failure, the battery is destroyed and becomes a useless silverdisk.
 
