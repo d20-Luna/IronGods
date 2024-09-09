@@ -39,7 +39,7 @@ Each morning, have the PCs make a DC 2 Flat Check. On a failure, have them make 
 
 ### Missing Councilor
 
-The bounty for finding Khonnir Baine is 250 gp, and a *scroll of [raise dead](http://2e.aonprd.com/Spells.aspx?ID=243)* if they bring Khonnir Baine back alive. Similarly, the bounty for reigniting Torch is also 250 gp.
+The bounty for finding Khonnir Baine is 250 gp, and a *scroll of [raise dead](https://2e.aonprd.com/Spells.aspx?ID=1645&Redirected=1)* if they bring Khonnir Baine back alive. Similarly, the bounty for reigniting Torch is also 250 gp.
 
 ### Visiting the Foundry (30 XP, Trivial Threat)
 
@@ -55,7 +55,7 @@ The bounty for finding Khonnir Baine is 250 gp, and a *scroll of [raise dead](ht
   - **Track (Survival): DC15 -** There appear to have been several people that climbed onto the five-foot-high ledge.
   - **Climb (Athletics): DC10 -** Required to climb the five-foot-high ledge, although if rope is used, the DC is reduced to 5.
 - **Creatures:**
-  - 3x [Flash Beetles](https://2e.aonprd.com/Monsters.aspx?ID=49)
+  - 3x [Flash Beetles](https://2e.aonprd.com/Monsters.aspx?ID=2852)
 
 ### A2. First Expedition's Fate (60 XP, Low Threat)
 
@@ -78,8 +78,8 @@ The bounty for finding Khonnir Baine is 250 gp, and a *scroll of [raise dead](ht
 - **Creatures:**
   - 1x [Blindheim](http://2e.aonprd.com/Monsters.aspx?ID=570)
 - **Loot:** Mostly eaten body's belt pouch
-  - 2x *[Minor healing potion](https://2e.aonprd.com/Equipment.aspx?ID=186)*
-  - 1x [Religious symbol of Zyphus, Silver](http://2e.aonprd.com/Equipment.aspx?ID=41)
+  - 2x *[Minor healing potion](https://2e.aonprd.com/Equipment.aspx?ID=2943)*
+  - 1x [Religious symbol of Zyphus, Silver](https://2e.aonprd.com/Equipment.aspx?ID=2745)
   - 11 gp, 7 sp
 
 ### A5. Skulk Watch Post (40 XP, Trivial Threat)
@@ -134,7 +134,7 @@ The bounty for finding Khonnir Baine is 250 gp, and a *scroll of [raise dead](ht
   - 1x *[+1 sap](http://2e.aonprd.com/Weapons.aspx?ID=37)*
   - 2x *[Lesser healing potion](http://2e.aonprd.com/Equipment.aspx?ID=186)*
   - 1x [Sunrod](http://2e.aonprd.com/Equipment.aspx?ID=137)
-  - 1x *[Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [comprehend language](http://2e.aonprd.com/Spells.aspx?ID=46)*
+  - 1x *[Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [translate](https://2e.aonprd.com/Spells.aspx?ID=1723)*
   - 1x [Infiltrator thieves' tools](http://2e.aonprd.com/Equipment.aspx?ID=58)
   - 29 gp, 3 sp
 - **XP Awards:**
