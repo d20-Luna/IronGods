@@ -170,10 +170,10 @@ There's a total of 6 [Orc Warriors](https://2e.aonprd.com/Monsters.aspx?ID=325) 
 
 - **Loot:** Dented metal locker
   - 1x [Wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [*grease*](https://2e.aonprd.com/Spells.aspx?ID=140)
-  - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*sound burst*](https://2e.aonprd.com/Spells.aspx?ID=292)
+  - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*noise blast*](https://2e.aonprd.com/Spells.aspx?ID=1616)
   - 1x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [crossbow](https://2e.aonprd.com/Weapons.aspx?ID=67)*
   - 1x White access keycard
-  - 1x [Timeworn fire extinguisher^](/Technology%20Guide/Gear/README.md#fire-extinguisher)
+  - 1x [Fire extinguisher^](/Technology%20Guide/Gear/README.md#fire-extinguisher)
   - 4x Silverdisks
   - 57 gp, 6 sp, s cp
 
@@ -210,7 +210,7 @@ The iron gear doors have Hardness 18, 72 HP (36 BT).
 - **Hazards:**
   - [Laser Turret^](Hazards/README.md#laser-turret)
 - **Loot:**
-  - [Timeworn Laser Rifle^](/Technology%20Guide/Weapons/README.md#laser-rifle) - If the Laser Turret was deactivated without breaking it or it expending all its charges.
+  - [Tactical Laser Rifle^](/Technology%20Guide/Weapons/README.md#laser-rifle) - If the Laser Turret was deactivated without breaking it or it expending all its charges.
 
 #### H2. Waiting Room (60 - 100 XP, Low to Moderate Threat)
 
@@ -243,10 +243,10 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
 - **Loot:**
   - 14x [Soothe^](Items/README.md#soothe)
   - 3x [Gas Grenade^](Items/README.md#gas-grenade)
-  - 2x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*2nd level animate dead*](https://2e.aonprd.com/Spells.aspx?ID=666)
+  - 2x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*2nd level summon undead*](https://2e.aonprd.com/Spells.aspx?ID=1706)
   - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*bind undead*](https://2e.aonprd.com/Spells.aspx?ID=22)
   - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*technomancy^*](/Technology%20Guide/README.md#technomancy)
-  - 7x [Battery^](/Technology%20Guide/Gear/README.md#battery)
+  - 7x [Commercial Battery^](/Technology%20Guide/Gear/README.md#battery)
   - 22x Silverdisks
   - 53 gp, 6 sp
 
@@ -291,14 +291,14 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
 #### J6. Redtooth's Lair
 
 - **Loot:**
-  - 5x [Battery^](/Technology%20Guide/Gear/README.md#battery)
-  - 2x [Nanite Canister^](/Technology%20Guide/Gear/README.md#nanite-canister)
+  - 5x [Commercial Battery^](/Technology%20Guide/Gear/README.md#battery)
+  - 2x [Tactical Battery^](/Technology%20Guide/Gear/README.md#battery)
   - 1x [Flare Gun^](/Technology%20Guide/Weapons/README.md#flare-gun)
   - 2x [Arc Grenade^](/Technology%20Guide/Gear/README.md#grenade)
   - 1x [Flechette Grenade^](/Technology%20Guide/Gear/README.md#grenade)
   - 3x [Zero Grenade^](/Technology%20Guide/Gear/README.md#grenade)
   - 1x [Trauma Pack Plus^](/Technology%20Guide/Gear/README.md#trauma-pack-plus)
-  - 1x [Timeworn Detonator^](/Technology%20Guide/Gear/README.md#detonator)
+  - 1x [Detonator^](/Technology%20Guide/Gear/README.md#detonator)
 
 ### K. Manticore Lair (40 XP, Trivial Threat)
 
@@ -313,7 +313,7 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
   - 1x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [greataxe](https://2e.aonprd.com/Weapons.aspx?ID=21)*
   - 1 gp, 4 cp
   - 1x [*ring of the ram*](https://2e.aonprd.com/Equipment.aspx?ID=461)
-  - 1x [EMP Pistol^](/Technology%20Guide/Weapons/README.md#emp-pistol)
+  - 1x [Arc Pistol^](/Technology%20Guide/Weapons/README.md#arc-pistol)
 
 ### M. Thralls of Hellion Territory (40 XP, Trivial Threat)
 
@@ -349,11 +349,11 @@ The door is made from [glaucite^](/Technology%20Guide/README.md#glaucite) (Hardn
 - **Creatures:**
   - 3x [Poltergeist](https://2e.aonprd.com/Monsters.aspx?ID=334)
 - **Loot:** 
-  - 1x [Timeworn Grenade Launcher^](/Technology%20Guide/Weapons/README.md#grenade-launcher)
+  - 1x [Grenade Launcher^](/Technology%20Guide/Weapons/README.md#grenade-launcher)
   - 3x [Concussion Grenade^](/Technology%20Guide/Gear/README.md#grenade)
-  - 1x [Timeworn Emergency Beacon^](/Technology%20Guide/Gear/README.md#emergency-beacon)
-  - 1x [Timeworn Emergency Raft^](/Technology%20Guide/Gear/README.md#emergency-raft)
-  - 1x [Timeworn Emergency Shelter^](/Technology%20Guide/Gear/README.md#emergency-shelter)
+  - 1x [Emergency Beacon^](/Technology%20Guide/Gear/README.md#emergency-beacon)
+  - 1x [Emergency Raft^](/Technology%20Guide/Gear/README.md#emergency-raft)
+  - 1x [Emergency Shelter^](/Technology%20Guide/Gear/README.md#emergency-shelter)
   - 3x [Cylex^](/Technology%20Guide/Gear/README.md#cylex)
   - 43x Silverdisks
 
@@ -376,7 +376,7 @@ The door is made from [glaucite^](/Technology%20Guide/README.md#glaucite) (Hardn
 - **Creatures:**
   - 1x Yurian Valako, an Elite [Wraith](https://2e.aonprd.com/Monsters.aspx?ID=417)
 - **Loot:**
-  - 1x [Timeworn Mind Burner^](Items/README.md#mind-burner)
+  - 1x [Mind Burner^](Items/README.md#mind-burner)
   - 1x [Scatterlight Suit^](/Technology%20Guide/Armor/README.md#scatterlight-suit)
   - 1x [Envoy's Mouthpiece^](Items/README.md#envoys-mouthpiece)
   - 1x [Skillslot^](/Technology%20Guide/Cybertech/README.md#skillslot)
@@ -498,7 +498,7 @@ The [glaucite^](/Technology%20Guide/README.md#glaucite) cabinet has hardness 10,
 
 - **Loot:** Inside Cabinet
   - 1x [*North Wind's Night Verse*](https://2e.aonprd.com/Equipment.aspx?ID=1068)
-  - 1x [Timeworn Hard Light Shield^](/Technology%20Guide/Armor/README.md#hard-light-shield)
+  - 1x [Commercial Phase Shield^](/Technology%20Guide/Armor/README.md#phase-shield)
   - 1x [Power Cable^](/Technology%20Guide/Gear/README.md#power-cable)
   - 14 gp, 12 sp
   - 244x Silverdisks
@@ -549,8 +549,8 @@ If PCs have a Scrap-Worth lower than 10, add 20 XP to this encounter - See [Scra
 - **Skills:**
   - **Balance (Acrobatics): DC13 -** To move along the beam successfully
 - **Loot:** Draigs' Nest
-  - 11x [Battery^](/Technology%20Guide/Gear/README.md#battery)
-  - 1x [Timeworn Magboots^](/Technology%20Guide/Gear/README.md#magboots)
+  - 11x [Tactical Battery^](/Technology%20Guide/Gear/README.md#battery)
+  - 1x [Magboots^](/Technology%20Guide/Gear/README.md#magboots)
   - 319x Silverdisks
 
 ### T. Excavator Arm
@@ -566,7 +566,7 @@ If PCs have a Scrap-Worth lower than 10, add 20 XP to this encounter - See [Scra
   - **Recall Knowledge (Numeria or Geography Lore): DC10 -** To recognise the scrawl as Silver Mount.
   - **Recall Knowledge (Society): DC15 -** To recognise the scrawl as Silver Mount.
 - **Hazards:**
-  - 3x [Glyph of Warding](https://2e.aonprd.com/Spells.aspx?ID=138) - The glyph casts [*sound burst*](https://2e.aonprd.com/Spells.aspx?ID=292) at 3rd level, triggered by a any creatures walking over that aren't constructs or androids. DC 24.
+  - 3x [Glyph of Warding](https://2e.aonprd.com/Spells.aspx?ID=138) - The glyph casts [*noise blast*](https://2e.aonprd.com/Spells.aspx?ID=292) at 3rd level, triggered by a any creatures walking over that aren't constructs or androids. DC 24.
 
 #### T3. Hellion's Redoubt (170 XP, Extreme Threat)
 
