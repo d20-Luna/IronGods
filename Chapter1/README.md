@@ -485,7 +485,7 @@ The machine has Hardness 5, HP 20 (BT 10) if PCs can't disable the machine and w
   - 1x [Collector Robot^](Creatures/README.md#collector-robot)
   - 1x [Meyanda^](Creatures/README.md#meyanda)
 - **Loot:** Meyanda
-  - 1x *[+1 striking inferno pistol^](Items/README.md#inferno-pistol)*
+  - 1x *[advanced plasma caster](SF2 Playtest Rulebook pg 179)*
   - 1x *[+1 spiked gauntlet](https://2e.aonprd.com/Weapons.aspx?ID=11)*
   - 1x [Black nanite hypogun^](/Technology%20Guide/Gear/README.md#nanite-hypogun)
   - 1x [Chain shirt](https://2e.aonprd.com/Armor.aspx?ID=6)
