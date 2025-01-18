@@ -160,23 +160,23 @@ Grenades need to be armed before activating, and go off at the start of the user
 
 Here is a list of the various kinds of grenades and their effects.
 
-Grenade               | Level | Price  | Save DC       | Extra Traits      | Effect
-----------------------|-------|--------|---------------|-------------------|---------------------
-Arc Grenade           | 5     | 25 gp  | basic Ref 20  | Electricity       | 5d6 electricity damage
-Atom Grenade          | 11    | 360 gp | N/A           | Radiation         | Creates a 20 foot area of [medium radiation](../README.md#radiation)
-Bang Grenade          | 3     | 15 gp  | Fort 23       | Auditory          | On a failure, creatures are deafened until the end of their next turn. On a critical failure, creature is deafened for 1 minute and stunned 1
-Bio Grenade           | 10    | 200 gp | Fort 15       | Disease           | Infects targets with [Bubonic Plague](http://2e.aonprd.com/Diseases.aspx?ID=6) with no onset
-Concussion Grenade    | 5     | 25 gp  | basic Ref 20  |                   | 5d6 bludgeoning damage
-EMP Grenade           | 4     | 20 gp  | basic Ref 20  | Electricity       | 5d6 electricity damage to robots and tech with charges. Half to androids and cyborgs. No damage to other creatures
-Flash Grenade         | 1     | 5 gp   | Fort 20       | Light, Visual     | Creatures are blinded for 1 round and dazzled for 1 minute. Creatures blinded this way can spend 1 interact action rubbing their eyes to end the blinded condition
-Flechette Grenade     | 5     | 25 gp  | basic Ref 20  |                   | 5d6 piercing damage
-Fragmentation Grenade | 5     | 25 gp  | basic Ref 20  |                   | 5d6 slashing damage
-Gravity Grenade       | 9     | 135 gp | basic Ref 27  | Force, Trip       | 5d6 force damage and creatures are also knocked prone
-Inferno Grenade       | 5     | 25 gp  | basic Ref 20  | Fire              | 5d6 fire damage
-Plasma Grenade        | 8     | 95 gp  | basic Ref 25  | Fire, Electricity | 4d6 fire damage and 4d6 electricity damage
-Soft Grenade          | 5     | 25 gp  | basic Ref 22  | Nonlethal         | 5d6 bludgeoning damage. This effect has the nonlethal trait
-Sonic Grenade         | 6     | 35 gp  | basic Fort 22 | Sonic, Auditory   | 5d6 sonic damage and creatures are also deafened until the end of their turn
-Zero Grenade          | 5     | 25 gp  | basic Ref 20  | Cold              | 5d6 cold damage
+Grenade               | Color       | Level | Price  | Save DC       | Extra Traits      | Effect
+----------------------|-------------|-------|--------|---------------|-------------------|---------------------
+Arc Grenade           | Yellow      | 5     | 25 gp  | basic Ref 20  | Electricity       | 5d6 electricity damage
+Atom Grenade          | Black       | 11    | 360 gp | N/A           | Radiation         | Creates a 20 foot area of [medium radiation](../README.md#radiation)
+Bang Grenade          | Light Gray  | 3     | 15 gp  | Fort 23       | Auditory          | On a failure, creatures are deafened until the end of their next turn. On a critical failure, creature is deafened for 1 minute and stunned 1
+Bio Grenade           | Dark Green  | 10    | 200 gp | Fort 15       | Disease           | Infects targets with [Bubonic Plague](http://2e.aonprd.com/Diseases.aspx?ID=6) with no onset
+Concussion Grenade    | Brown       | 5     | 25 gp  | basic Ref 20  |                   | 5d6 bludgeoning damage
+EMP Grenade           | Gold        | 4     | 20 gp  | basic Ref 20  | Electricity       | 5d6 electricity damage to robots and tech with charges. Half to androids and cyborgs. No damage to other creatures
+Flash Grenade         | White       | 1     | 5 gp   | Fort 20       | Light, Visual     | Creatures are blinded for 1 round and dazzled for 1 minute. Creatures blinded this way can spend 1 interact action rubbing their eyes to end the blinded condition
+Flechette Grenade     | Silver      | 5     | 25 gp  | basic Ref 20  |                   | 5d6 piercing damage
+Fragmentation Grenade | Dark Red    | 5     | 25 gp  | basic Ref 20  |                   | 5d6 slashing damage
+Gravity Grenade       | Dark Purple | 9     | 135 gp | basic Ref 27  | Force, Trip       | 5d6 force damage and creatures are also knocked prone
+Inferno Grenade       | Red         | 5     | 25 gp  | basic Ref 20  | Fire              | 5d6 fire damage
+Plasma Grenade        | Purple      | 8     | 95 gp  | basic Ref 25  | Fire, Electricity | 4d6 fire damage and 4d6 electricity damage
+Soft Grenade          | Pink        | 5     | 25 gp  | basic Ref 22  | Nonlethal         | 5d6 bludgeoning damage. This effect has the nonlethal trait
+Sonic Grenade         | Orange      | 6     | 35 gp  | basic Fort 22 | Sonic, Auditory   | 5d6 sonic damage and creatures are also deafened until the end of their turn
+Zero Grenade          | Light Blue  | 5     | 25 gp  | basic Ref 20  | Cold              | 5d6 cold damage
 
 ## Grippers
 
