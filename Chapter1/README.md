@@ -527,7 +527,7 @@ The machine has Hardness 5, HP 20 (BT 10) if PCs can't disable the machine and w
 
 ### 17. Temple of Brigh
 
-**Wares** divine spellcasting, magical items, [flare gun^](../Technology%20Guide/Weapons/README.md#flare-gun), 3 *[scrolls](https://2e.aonprd.com/Equipment.aspx?ID=640) of [restoration](https://2e.aonprd.com/Spells.aspx?ID=258)*, a *[scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [raise dead](https://2e.aonprd.com/Spells.aspx?ID=243)* and a *[wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [rebuke technology^](../Technology%20Guide/README.md#rebuke-technology)*
+**Wares** divine spellcasting, magical items, [flare gun^](../Technology%20Guide/Weapons/README.md#flare-gun), 3 *[scrolls](https://2e.aonprd.com/Equipment.aspx?ID=640) of [restoration](https://2e.aonprd.com/Spells.aspx?ID=258)*, a *[scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [raise dead](https://2e.aonprd.com/Spells.aspx?ID=243)* and a *[wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [discharge](https://2e.aonsrd.com/spells/66-discharge)*
 
 **Joram Kyte** (N male human cleric of Brigh 6, Friendly, Perception DC 24, Will DC 24, Divine DC 22, Spell Attack +12) Joram Kyte is an old friend of [Khonnir Baine^](Creatures/README.md#khonnir-baine) and will support the PCs once he hears they're looking for him.
 
