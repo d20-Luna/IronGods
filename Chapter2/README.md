@@ -173,7 +173,7 @@ There's a total of 6 [Orc Warriors](https://2e.aonprd.com/Monsters.aspx?ID=325) 
   - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*noise blast*](https://2e.aonprd.com/Spells.aspx?ID=1616)
   - 1x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [crossbow](https://2e.aonprd.com/Weapons.aspx?ID=67)*
   - 1x White access keycard
-  - 1x [Fire extinguisher^](/Technology%20Guide/Gear/README.md#fire-extinguisher)
+  - 1x [Commercial Fire Extinguisher](https://2e.aonsrd.com/treasure/14-fire-extinguisher)
   - 4x Silverdisks
   - 57 gp, 6 sp, s cp
 
@@ -210,7 +210,7 @@ The iron gear doors have Hardness 18, 72 HP (36 BT).
 - **Hazards:**
   - [Laser Turret^](Hazards/README.md#laser-turret)
 - **Loot:**
-  - [Tactical Laser Rifle^](/Technology%20Guide/Weapons/README.md#laser-rifle) - If the Laser Turret was deactivated without breaking it or it expending all its charges.
+  - [Tactical Laser Rifle^](https://2e.aonsrd.com/equipment/weapons/41-laser-rifle) - If the Laser Turret was deactivated without breaking it.
 
 #### H2. Waiting Room (60 - 100 XP, Low to Moderate Threat)
 
@@ -242,11 +242,11 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
   - 4x Elite [Plague Zombies](https://2e.aonprd.com/Monsters.aspx?ID=424)
 - **Loot:**
   - 14x [Soothe^](Items/README.md#soothe)
-  - 3x [Gas Grenade^](Items/README.md#gas-grenade)
+  - 3x [Commercial Degradation Grenades](https://2e.aonsrd.com/treasure/178-degradation-grenade)
   - 2x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*2nd level summon undead*](https://2e.aonprd.com/Spells.aspx?ID=1706)
   - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*bind undead*](https://2e.aonprd.com/Spells.aspx?ID=22)
-  - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*technomancy^*](/Technology%20Guide/README.md#technomancy)
-  - 7x [Commercial Battery^](/Technology%20Guide/Gear/README.md#battery)
+  - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*Commune with Tech*](https://2e.aonsrd.com/spells/399-commune-with-tech)
+  - 7x [Commercial Battery^](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
   - 22x Silverdisks
   - 53 gp, 6 sp
 
@@ -291,14 +291,13 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
 #### J6. Redtooth's Lair
 
 - **Loot:**
-  - 5x [Commercial Battery^](/Technology%20Guide/Gear/README.md#battery)
-  - 2x [Tactical Battery^](/Technology%20Guide/Gear/README.md#battery)
-  - 1x [Flare Gun^](/Technology%20Guide/Weapons/README.md#flare-gun)
-  - 2x [Arc Grenade^](/Technology%20Guide/Gear/README.md#grenade)
-  - 1x [Flechette Grenade^](/Technology%20Guide/Gear/README.md#grenade)
-  - 3x [Zero Grenade^](/Technology%20Guide/Gear/README.md#grenade)
-  - 1x [Trauma Pack Plus^](/Technology%20Guide/Gear/README.md#trauma-pack-plus)
-  - 1x [Detonator^](/Technology%20Guide/Gear/README.md#detonator)
+  - 5x [Commercial Battery^](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
+  - 2x [Tactical Battery^](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
+  - 1x [Tactical Zero Knife](https://2e.aonsrd.com/equipment/weapons/7-zero-knife)
+  - 2x [Commercial Electromag Grenades](https://2e.aonsrd.com/treasure/101-electromag-grenade)
+  - 1x [Tactical Frag Grenade](https://2e.aonsrd.com/treasure/103-frag-grenade)
+  - 3x [Commercial Ossifying Grenade^](https://2e.aonsrd.com/treasure/182-ossifying-grenade)
+  - 1x [Tactical Medkit(https://2e.aonsrd.com/treasure/26-medkit)
 
 ### K. Manticore Lair (40 XP, Trivial Threat)
 
@@ -313,7 +312,7 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
   - 1x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [greataxe](https://2e.aonprd.com/Weapons.aspx?ID=21)*
   - 1 gp, 4 cp
   - 1x [*ring of the ram*](https://2e.aonprd.com/Equipment.aspx?ID=461)
-  - 1x [Arc Pistol^](/Technology%20Guide/Weapons/README.md#arc-pistol)
+  - 1x [Arc Pistol](https://2e.aonsrd.com/equipment/weapons/36-arc-pistol)
 
 ### M. Thralls of Hellion Territory (40 XP, Trivial Threat)
 
@@ -348,13 +347,13 @@ The door is made from [glaucite^](/Technology%20Guide/README.md#glaucite) (Hardn
 
 - **Creatures:**
   - 3x [Poltergeist](https://2e.aonprd.com/Monsters.aspx?ID=334)
-- **Loot:** 
-  - 1x [Grenade Launcher^](/Technology%20Guide/Weapons/README.md#grenade-launcher)
-  - 3x [Concussion Grenade^](/Technology%20Guide/Gear/README.md#grenade)
-  - 1x [Emergency Beacon^](/Technology%20Guide/Gear/README.md#emergency-beacon)
+- **Loot:**
+  - 1x [Commercial Grenade Launcher](https://2e.aonsrd.com/treasure/106-grenade-launcher)
+  - 3x [Commercial Frag Grenade](https://2e.aonsrd.com/treasure/103-frag-grenade)
+  - 1x [Emergency Beacon](https://2e.aonsrd.com/treasure/11-emergency-beacon)
   - 1x [Emergency Raft^](/Technology%20Guide/Gear/README.md#emergency-raft)
   - 1x [Emergency Shelter^](/Technology%20Guide/Gear/README.md#emergency-shelter)
-  - 3x [Cylex^](/Technology%20Guide/Gear/README.md#cylex)
+  - 3x [Tactical Incendiary Grenade](https://2e.aonsrd.com/treasure/104-incendiary-grenade)
   - 43x Silverdisks
 
 #### P3. Engine Room (40 XP, Trivial Threat)
@@ -376,10 +375,10 @@ The door is made from [glaucite^](/Technology%20Guide/README.md#glaucite) (Hardn
 - **Creatures:**
   - 1x Yurian Valako, an Elite [Wraith](https://2e.aonprd.com/Monsters.aspx?ID=417)
 - **Loot:**
-  - 1x [Mind Burner^](Items/README.md#mind-burner)
-  - 1x [Scatterlight Suit^](/Technology%20Guide/Armor/README.md#scatterlight-suit)
+  - 1x [Commercial Neural Lash](https://2e.aonsrd.com/equipment/weapons/18-neural-lash)
+  - 1x [Tactical Tempweave](https://2e.aonsrd.com/equipment/armor/11-tempweave)
   - 1x [Envoy's Mouthpiece^](Items/README.md#envoys-mouthpiece)
-  - 1x [Skillslot^](/Technology%20Guide/Cybertech/README.md#skillslot)
+  - 1x [Darkvision Capacitors](https://2e.aonsrd.com/treasure/131-darkvision-capacitors)
   - 1x [Inhibitor Facet^](Items/README.md#memory-facet)
  - **XP Award:** If the PCs successfully decipher the message from the Envoy's Mouthpiece, award them 200 XP.
 
@@ -489,7 +488,7 @@ The central processor has Hardness 9, HP 36 (BT 18).
 
 - **Loot:** On top of cabinet
   - 12x [Goo Tube^](/Technology%20Guide/Gear/README.md#goo-tube)
-  - 2x [Cureall^](/Technology%20Guide/Pharmaceuticals/README.md#cureall)
+  - 2x [Advanced Medpatch](https://2e.aonsrd.com/treasure/35-medpatch)
 - **Skills:**
   - **Force Open (Athletics): DC30 -** To force open the doors of the cabinet.
   - **Disable Device (Thievery): DC31 -** To pick the electronic locks of the cabinet.
@@ -498,8 +497,8 @@ The [glaucite^](/Technology%20Guide/README.md#glaucite) cabinet has hardness 10,
 
 - **Loot:** Inside Cabinet
   - 1x [*North Wind's Night Verse*](https://2e.aonprd.com/Equipment.aspx?ID=1068)
-  - 1x [Commercial Phase Shield^](/Technology%20Guide/Armor/README.md#phase-shield)
-  - 1x [Power Cable^](/Technology%20Guide/Gear/README.md#power-cable)
+  - 1x [Commercial Phase Shield](https://2e.aonsrd.com/equipment/shields/6-phase-shield)
+  - 1x [Cable Line](https://2e.aonsrd.com/treasure/3-cable-line)
   - 14 gp, 12 sp
   - 244x Silverdisks
 - **XP Award:** If the PCs open this cabinet and read through her notes award them 100 XP
