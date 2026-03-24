@@ -501,7 +501,7 @@ The machine has Hardness 5, HP 20 (BT 10) if PCs can't disable the machine and w
 
 ### 2. General Store
 
-**Wares** adventuring gear, *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](http://2e.aonprd.com/Equipment.aspx?ID=280) [flaming](https://2e.aonprd.com/Equipment.aspx?ID=295) [warhammer](https://2e.aonprd.com/Weapons.aspx?ID=47)*, *[staff of abjuration](https://2e.aonprd.com/Equipment.aspx?ID=351)*, 5 [trauma packs^](../Technology%20Guide/Gear/README.md#trauma-pack), a *[wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [technomancy^](../Technology%20Guide/README.md#technomancy)* and a [filter mask^](../Technology%20Guide/Gear/README.md#filter-mask)
+**Wares** adventuring gear, *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](http://2e.aonprd.com/Equipment.aspx?ID=280) [flaming](https://2e.aonprd.com/Equipment.aspx?ID=295) [warhammer](https://2e.aonprd.com/Weapons.aspx?ID=47)*, *[staff of abjuration](https://2e.aonprd.com/Equipment.aspx?ID=351)*, 5 [commercial medkits](https://2e.aonsrd.com/treasure/26-medkit), a *[wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [tech intuition](https://2e.aonsrd.com/spells/398-tech-intuition)* and a [commercial filtered rebreather](https://2e.aonsrd.com/treasure/47-filtered-rebreather)
 
 **Inkrit Kollisun** (N female human shopkeep 3, Indifferent, Perception DC 18, Will DC 20)
 
@@ -509,7 +509,7 @@ The machine has Hardness 5, HP 20 (BT 10) if PCs can't disable the machine and w
 
 #### Sanvil's Stand
 
-**Wares** [ion tape^](../Technology%20Guide/Gear/README.md#ion-tape), [zipstick^](../Technology%20Guide/Gear/README.md#zipstick), [universal serum](Items/README.md#universal-serum), 2 doses of [vitality serum^](Items/README.md#vitality-serum) and 5 [batteries^](../Technology%20Guide/Gear/README.md#battery)
+**Wares** [ion tape^](../Technology%20Guide/Gear/README.md#ion-tape), [zipstick^](../Technology%20Guide/Gear/README.md#zipstick), [infiltrator serum](https://2e.aonsrd.com/treasure/40-infiltrator-serum), 2 doses of [shimmerstone serum](https://2e.aonsrd.com/treasure/41-shimmerstone-serum) and 5 [commercial batteries](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
 
 **Technological Appraisal** Sanvil Trett offers to identify technological finds for the PCs using his Engineer Lore skill for 1 gp per object.
 
@@ -517,7 +517,7 @@ The machine has Hardness 5, HP 20 (BT 10) if PCs can't disable the machine and w
 
 ### 12. Tempting Tonics
 
-**Wares** alchemical poisons, antidotes, elixirs, [cureall^](../Technology%20Guide/Pharmaceuticals/README.md#cureall), grades I to IV of [hemochem^](../Technology%20Guide/Pharmaceuticals/README.md#hemochem), 2 doses of [cardioamp^](../Technology%20Guide/Pharmaceuticals/README.md#cardioamp) and 6 [medlances^](../Technology%20Guide/Gear/README.md#medlance)
+**Wares** alchemical poisons, antidotes, elixirs, [commando serum](https://2e.aonsrd.com/treasure/39-commando-serum), commercial and tactical [medpatches](https://2e.aonsrd.com/treasure/35-medpatch), commercial and tactical [hypopens](https://2e.aonsrd.com/treasure/36-hypopen) and 6 [advanced hypopens](https://2e.aonsrd.com/treasure/36-hypopen)
 
 **Jhestine Imierin** (N female half-elf witch 4, Indifferent, Perception DC 18, Will DC 20, Primal DC 20, Spell Attack +10)
 
@@ -527,7 +527,7 @@ The machine has Hardness 5, HP 20 (BT 10) if PCs can't disable the machine and w
 
 ### 17. Temple of Brigh
 
-**Wares** divine spellcasting, magical items, [flare gun^](../Technology%20Guide/Weapons/README.md#flare-gun), 3 *[scrolls](https://2e.aonprd.com/Equipment.aspx?ID=640) of [restoration](https://2e.aonprd.com/Spells.aspx?ID=258)*, a *[scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [raise dead](https://2e.aonprd.com/Spells.aspx?ID=243)* and a *[wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [discharge](https://2e.aonsrd.com/spells/66-discharge)*
+**Wares** divine spellcasting, magical items, [laser pistol](https://2e.aonsrd.com/equipment/weapons/40-laser-pistol), 3 *[scrolls](https://2e.aonprd.com/Equipment.aspx?ID=640) of [restoration](https://2e.aonprd.com/Spells.aspx?ID=258)*, a *[scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [raise dead](https://2e.aonprd.com/Spells.aspx?ID=243)* and a *[wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [discharge](https://2e.aonsrd.com/spells/66-discharge)*
 
 **Joram Kyte** (N male human cleric of Brigh 6, Friendly, Perception DC 24, Will DC 24, Divine DC 22, Spell Attack +12) Joram Kyte is an old friend of [Khonnir Baine^](Creatures/README.md#khonnir-baine) and will support the PCs once he hears they're looking for him.
 
