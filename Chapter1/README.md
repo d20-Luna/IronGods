@@ -189,9 +189,9 @@ Sneaking past the repair drones should award the same amount of XP as if they we
 ### B3. Wildlife Staging Room
 
 - **Loot** Rubble
-  - 1x [Grippers^](/Technology%20Guide/Gear/README.md#grippers)
-  - 1x [Black e-pick^](/Technology%20Guide/Gear/README.md#e-pick)
-  - 2x [Batteries^](/Technology%20Guide/Gear/README.md#battery)
+  - 1x [Commercial Repair Toolkit](https://2e.aonsrd.com/treasure/32-repair-toolkit)
+  - 1x [Commercial Hacking Toolkit](https://2e.aonsrd.com/treasure/16-hacking-toolkit)
+  - 2x [Commercial Batteries](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
 
 ### B5. Functional Biolock
 
@@ -273,15 +273,15 @@ Machines here have Hardness 5, 20 HP (10 BT).
     - Remember to apply the -5 penalty if these checks aren't made with an expended charge of an [e-pick^](/Technology%20Guide/Gear/README.md#e-pick)
 
 - **Loot:** Storage Closet
-  - 1x [Flashlight^](../Technology%20Guide/Gear/README.md#flashlight)
-  - 3x [Batteries^](/Technology%20Guide/Gear/README.md#battery)
+  - 1x [Commercial Flashlight](https://2e.aonsrd.com/treasure/15-flashlight)
+  - 3x [Commercial Batteries](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
   - 26x Silverdisks
 - **Loot:** If the PCs manage to open the white bin
-  - 2x [Bang grenades^](/Technology%20Guide/Gear/README.md#grenade)
-  - 1x [Flash grenade^](/Technology%20Guide/Gear/README.md#grenade)
-  - 1x [Soft grenade^](/Technology%20Guide/Gear/README.md#grenade)
-  - 1x [Neraplast armor^](Items/README.md#neraplast-armor)
-  - 1x [Timeworn stun gun^](/Technology%20Guide/Weapons/README.md#stun-gun) with 5 charges remaining
+  - 2x [Commercial Degradation Grenades](https://2e.aonsrd.com/treasure/178-degradation-grenade)
+  - 1x [Commercial Flash Grenade](https://2e.aonsrd.com/treasure/102-flash-grenade)
+  - 1x [Commercial Frag Grenade](https://2e.aonsrd.com/treasure/103-frag-grenade)
+  - 1x [Commercial Carbon Skin](https://2e.aonsrd.com/equipment/armor/5-carbon-skin) with [Commercial Active Camouflage](https://2e.aonsrd.com/treasure/50-active-camouflage) Upgrade
+  - 1x [Commercial Arc Emitter](https://2e.aonsrd.com/equipment/weapons/49-arc-emitter)
 
 The white glaucite bin in the room has Hardness 5, HP 20 (BT 10). But smashing it has a 50% chance of detonating all of the grenades.
 
@@ -295,7 +295,7 @@ The white glaucite bin in the room has Hardness 5, HP 20 (BT 10). But smashing i
 - **Creatures:**
   - 1x [Cerebric Fungus^](Creatures/README.md#cerebric-fungus)
 - **Loot:** Box under the table
-  - 3x [Timeworn flare guns^](/Technology%20Guide/Weapons/README.md#flare-gun)
+  - 1x [Commercial Laser Pistol](https://2e.aonsrd.com/equipment/weapons/40-laser-pistol)
 - **XP Award:** Award the players 80 XP if they recognise the significance of the computer monitors.
 
 ### C5. Break Room
@@ -358,11 +358,11 @@ The ceiling has Hardness 5, HP 20 (BT 10) for those that wish to climb the shaft
   - 2x [Medical Drone^](Creatures/README.md#medical-drone)
   - 1x [Collector Robot^](Creatures/README.md#collector-robot)
 - **Loot:** Desk.
-  - 1x [Timeworn radiation detector^](/Technology%20Guide/Gear/README.md#radiation-detector)
-  - 1x [Medlance^](/Technology%20Guide/Gear/README.md#medlance)
-  - 1x [Timeworn brown nanite hypogun^](/Technology%20Guide/Gear/README.md#nanite-hypogun)
-  - 2x [Nanite canisters^](/Technology%20Guide/Gear/README.md#nanite-canister)
-  - 2x [Grade I Hemochem^](/Technology%20Guide/Pharmaceuticals/README.md#hemochem)
+  - 1x [Radiation Sweeper](https://2e.aonsrd.com/treasure/31-radiation-sweeper)
+  - 1x [Commercial Medpatch](https://2e.aonsrd.com/treasure/35-medpatch)
+  - 1x [Commercial Hypogun](https://2e.aonsrd.com/treasure/36-hypopen)
+  - 2x [Commercial Batteries](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
+  - 2x [Sprayflesh](https://2e.aonsrd.com/treasure/43-sprayflesh)
   - As well as all of [Khonnir Baine^](Creatures/README.md#khonnir-baine)'s gear.
 - **XP Award:** Award the players 400 XP for finally finding Khonnir Baine!
 
@@ -415,10 +415,10 @@ A boarded up door has has Hardness 3, HP 12 (BT 6) if people want to just smash 
 - **Creatures:**
   - 2x [Scrapwall Fanatic^](Creatures/README.md#scrapwall-fanatic)
 - **Loot:** If PCs manage to get into the locker
-  - 1x [Timeworn autograpnel^](/Technology%20Guide/Weapons/README.md#autograpnel)
-  - 1x [Timeworn panic suit^](/Technology%20Guide/Armor/README.md#panic-suit)
-  - 1x [Timeworn emergency beacon^](/Technology%20Guide/Gear/README.md#emergency-beacon)
-  - 2x [Batteries^](/Technology%20Guide/Gear/README.md#battery)
+  - 1x [Commercial Autograppler](https://2e.aonsrd.com/treasure/2-autograppler)
+  - 1x [Commercial Hardlight Series](https://2e.aonsrd.com/equipment/armor/7-hardlight-series)
+  - 1x [Emergency Beacon](https://2e.aonsrd.com/treasure/11-emergency-beacon)
+  - 2x [Commercial Batteries](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
   - 24x silverdisks
 
 The locker's door has Hardness 9, HP 21 (BT 18) if the PCs wish to finish the job.
@@ -453,9 +453,9 @@ The machine has Hardness 5, HP 20 (BT 10) if PCs can't disable the machine and w
 - **Creatures:**
   - 1x [Gearsman^](Creatures/README.md#gearsman)
 - **Loot:** Large machine to the south.
-  - 1x [Timeworn chemalyzer^](/Technology%20Guide/Gear/README.md#chemalyzer)
+  - 1x [Chemalyzer](https://2e.aonsrd.com/treasure/5-chemalyzer)
 - **Loot:** Gearsman
-  - 1x [Timeworn neural inhibitor^](Items/README.md#neural-inhibitor) with 8 charges
+  - 1x [Commercial Shock Truncheon](https://2e.aonsrd.com/equipment/weapons/25-shock-truncheon)
 - **Loot:** Behind a monitor in the northwest.
   - 1x White-level access keycard
 
@@ -467,12 +467,9 @@ The machine has Hardness 5, HP 20 (BT 10) if PCs can't disable the machine and w
 - **Creatures:**
   - 1x [Gargoyle](http://2e.aonprd.com/Monsters.aspx?ID=210)
 - **Loot:** Pile of Junk before the altar
-  - 1x [Timeworn veemod goggles^](/Technology%20Guide/Gear/README.md#veemod-goggles)
-  - 1x [Black veemod^](/Technology%20Guide/Gear/README.md#veemod)
-  - 1x [Timeworn medlance^](/Technology%20Guide/Gear/README.md#medlance)
-  - 2x [Ion tape^](/Technology%20Guide/Gear/README.md#ion-tape)
-  - 1x [Zipstick^](/Technology%20Guide/Gear/README.md#zipstick)
-  - 1x [Timeworn proximity helmet](Items/README.md#proximity-helmet)
+  - 1x [Commercial Akashic Lens](https://2e.aonsrd.com/treasure/108-akashic-lens)
+  - 1x [Commercial Medpatch](https://2e.aonsrd.com/treasure/35-medpatch)
+  - 1x [Clockwork Songbird](https://2e.aonprd.com/Equipment.aspx?ID=3442)
   - 48x silverdisks
 
 ### D9. Reactor Core (120 XP - Severe Threat)
@@ -485,11 +482,11 @@ The machine has Hardness 5, HP 20 (BT 10) if PCs can't disable the machine and w
   - 1x [Collector Robot^](Creatures/README.md#collector-robot)
   - 1x [Meyanda^](Creatures/README.md#meyanda)
 - **Loot:** Meyanda
-  - 1x *[advanced plasma caster](SF2 Playtest Rulebook pg 179)*
+  - 1x *[Advanced Plasma Caster](https://2e.aonsrd.com/equipment/weapons/56-plasma-caster)*
   - 1x *[+1 spiked gauntlet](https://2e.aonprd.com/Weapons.aspx?ID=11)*
-  - 1x [Black nanite hypogun^](/Technology%20Guide/Gear/README.md#nanite-hypogun)
+  - 1x [Advanced Hypopen](https://2e.aonsrd.com/treasure/36-hypopen)
   - 1x [Chain shirt](https://2e.aonprd.com/Armor.aspx?ID=6)
-  - 2x [Nanite canister^](/Technology%20Guide/Gear/README.md#nanite-canister)
+  - 2x [Tactical Batteries](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
   - 11x silverdisks
   - 1x White-level access keycard
   - 18 gp, 6 sp
