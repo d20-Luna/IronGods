@@ -42,7 +42,7 @@ The town offers to pay the PCs a reward of 450 gp if they can ensure no further 
 
 ### Contacting Dinvaya
 
-Joram Kyte promises to give the PCs his [*wand of technological superiority (3rd-level spell)*](Items/README.md#wand-of-technological-superiority-3rd-level) as a reward once they complete his mission.
+Joram Kyte promises to give the PCs his [*wand of speak with computers (4th-level spell)*](https://2e.aonsrd.com/spells/280-speak-with-computers) as a reward once they complete his mission.
 
 ### A1. Barbican
 
@@ -245,7 +245,7 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
   - 3x [Commercial Degradation Grenades](https://2e.aonsrd.com/treasure/178-degradation-grenade)
   - 2x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*2nd level summon undead*](https://2e.aonprd.com/Spells.aspx?ID=1706)
   - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*bind undead*](https://2e.aonprd.com/Spells.aspx?ID=22)
-  - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*Commune with Tech*](https://2e.aonsrd.com/spells/399-commune-with-tech)
+  - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*Speak with Computers*](https://2e.aonsrd.com/spells/280-speak-with-computers)
   - 7x [Commercial Battery^](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
   - 22x Silverdisks
   - 53 gp, 6 sp
@@ -297,7 +297,7 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
   - 2x [Commercial Electromag Grenades](https://2e.aonsrd.com/treasure/101-electromag-grenade)
   - 1x [Tactical Frag Grenade](https://2e.aonsrd.com/treasure/103-frag-grenade)
   - 3x [Commercial Ossifying Grenade^](https://2e.aonsrd.com/treasure/182-ossifying-grenade)
-  - 1x [Tactical Medkit(https://2e.aonsrd.com/treasure/26-medkit)
+  - 1x [Tactical Medkit](https://2e.aonsrd.com/treasure/26-medkit)
 
 ### K. Manticore Lair (40 XP, Trivial Threat)
 
@@ -351,8 +351,7 @@ The door is made from [glaucite^](/Technology%20Guide/README.md#glaucite) (Hardn
   - 1x [Commercial Grenade Launcher](https://2e.aonsrd.com/treasure/106-grenade-launcher)
   - 3x [Commercial Frag Grenade](https://2e.aonsrd.com/treasure/103-frag-grenade)
   - 1x [Emergency Beacon](https://2e.aonsrd.com/treasure/11-emergency-beacon)
-  - 1x [Emergency Raft^](/Technology%20Guide/Gear/README.md#emergency-raft)
-  - 1x [Emergency Shelter^](/Technology%20Guide/Gear/README.md#emergency-shelter)
+  - 1x [Camping Kit](https://2e.aonsrd.com/treasure/4-camping-kit)
   - 3x [Tactical Incendiary Grenade](https://2e.aonsrd.com/treasure/104-incendiary-grenade)
   - 43x Silverdisks
 
@@ -377,7 +376,7 @@ The door is made from [glaucite^](/Technology%20Guide/README.md#glaucite) (Hardn
 - **Loot:**
   - 1x [Commercial Neural Lash](https://2e.aonsrd.com/equipment/weapons/18-neural-lash)
   - 1x [Tactical Tempweave](https://2e.aonsrd.com/equipment/armor/11-tempweave)
-  - 1x [Envoy's Mouthpiece^](Items/README.md#envoys-mouthpiece)
+  - 2x [Comm Unit](https://2e.aonsrd.com/treasure/7-comm-unit)
   - 1x [Darkvision Capacitors](https://2e.aonsrd.com/treasure/131-darkvision-capacitors)
   - 1x [Inhibitor Facet^](Items/README.md#memory-facet)
  - **XP Award:** If the PCs successfully decipher the message from the Envoy's Mouthpiece, award them 200 XP.
@@ -508,13 +507,13 @@ The [glaucite^](/Technology%20Guide/README.md#glaucite) cabinet has hardness 10,
 - **Skills:**
   - **Balance (Acrobatics): DC13 -** To move along the beams successfully.
 - **Creatures:**
-  - 2x [Caligni Caller](https://2e.aonprd.com/Monsters.aspx?ID=1088) - wearing [veemod goggles^](/Technology%20Guide/Gear/README.md#veemod-goggles) with [brown veemods^](/Technology%20Guide/Gear/README.md#veemod) to disable their light blindness.
+  - 2x [Caligni Caller](https://2e.aonprd.com/Monsters.aspx?ID=1088) - wearing [day goggles](https://2e.aonprd.com/Equipment.aspx?ID=1146) to disable their light blindness.
 
 #### S8. Tatterface's Domain (100 XP, Moderate Threat)
 
 - **Creatures:**
   - 2x [Caligni Caller](https://2e.aonprd.com/Monsters.aspx?ID=1088)
-  - 1x [Tatterface^](https://2e.aonprd.com/Monsters.aspx?ID=1088) - wearing [veemod goggles^](/Technology%20Guide/Gear/README.md#veemod-goggles) with [brown veemods^](/Technology%20Guide/Gear/README.md#veemod) to disable her light blindness.
+  - 1x [Tatterface^](https://2e.aonprd.com/Monsters.aspx?ID=1088) - wearing [day goggles](https://2e.aonprd.com/Equipment.aspx?ID=1146) to disable their light blindness.
 
 #### S9. Toxic Slump (40 XP, Trivial Threat)
 
@@ -548,8 +547,8 @@ If PCs have a Scrap-Worth lower than 10, add 20 XP to this encounter - See [Scra
 - **Skills:**
   - **Balance (Acrobatics): DC13 -** To move along the beam successfully
 - **Loot:** Draigs' Nest
-  - 11x [Tactical Battery^](/Technology%20Guide/Gear/README.md#battery)
-  - 1x [Magboots^](/Technology%20Guide/Gear/README.md#magboots)
+  - 11x [Tactical Battery](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
+  - 1x [Magboots](https://2e.aonsrd.com/treasure/23-magboots)
   - 319x Silverdisks
 
 ### T. Excavator Arm
