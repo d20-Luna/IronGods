@@ -295,7 +295,7 @@ The white glaucite bin in the room has Hardness 5, HP 20 (BT 10). But smashing i
 - **Creatures:**
   - 1x [Cerebric Fungus^](Creatures/README.md#cerebric-fungus)
 - **Loot:** Box under the table
-  - 1x [Commercial Laser Pistol](https://2e.aonsrd.com/equipment/weapons/40-laser-pistol)
+  - 1x [Lesser Flare Beacon](https://2e.aonprd.com/Equipment.aspx?ID=1112)
 - **XP Award:** Award the players 80 XP if they recognise the significance of the computer monitors.
 
 ### C5. Break Room
@@ -509,7 +509,7 @@ The machine has Hardness 5, HP 20 (BT 10) if PCs can't disable the machine and w
 
 #### Sanvil's Stand
 
-**Wares** [ion tape^](../Technology%20Guide/Gear/README.md#ion-tape), [zipstick^](../Technology%20Guide/Gear/README.md#zipstick), [infiltrator serum](https://2e.aonsrd.com/treasure/40-infiltrator-serum), 2 doses of [shimmerstone serum](https://2e.aonsrd.com/treasure/41-shimmerstone-serum) and 5 [commercial batteries](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
+**Wares** [cauterizing torch](https://2e.aonprd.com/Equipment.aspx?ID=1112), [infiltrator serum](https://2e.aonsrd.com/treasure/40-infiltrator-serum), 2 doses of [shimmerstone serum](https://2e.aonsrd.com/treasure/41-shimmerstone-serum) and 5 [commercial batteries](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
 
 **Technological Appraisal** Sanvil Trett offers to identify technological finds for the PCs using his Engineer Lore skill for 1 gp per object.
 
