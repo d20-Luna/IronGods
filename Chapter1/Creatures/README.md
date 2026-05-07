@@ -88,12 +88,6 @@ Khonnir Baine is built as an evocation wizard with some alchemist and rogue feat
 
 Meyanda is built as a Level 6 Android Cleric with a Harmful Font under the [delirium domain](http://2e.aonprd.com/Domains.aspx?ID=43).
 
-#### Meyanda's Items
-
-* *[+1 striking inferno pistol^](../Items/README.md#inferno-pistol)*
-* [Black nanite hypogun^](/Technology%20Guide/Gear/README.md#nanite-hypogun)
-* 2x [Nanite canister^](/Technology%20Guide/Gear/README.md#nanite-canister)
-
 ## New Creatures
 
 ### Malfunctioning Repair Drone
