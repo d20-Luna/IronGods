@@ -294,7 +294,7 @@ Machines here have Hardness 5, 20 HP (10 BT).
 - **Loot:** Under the table.
   - 1x Black-level access keycard
 
-**NB:** As *speak with dead* is no longer a spell (its closest equivalent is *[talking corpse](https://2e.aonprd.com/Spells.aspx?ID=329)* - an uncommon 4th level spell) and other spells that can possibly illuminate Hetuath's backstory aren't until higher levels - long after the PCs have left Torch. DMs that wish to relay his tragic tale to PCs may want to leave additional clues.
+**Note:** As *speak with dead* is no longer a spell (its closest equivalent is *[talking corpse](https://2e.aonprd.com/Spells.aspx?ID=329)* - an uncommon 4th level spell) and other spells that can possibly illuminate Hetuath's backstory aren't until higher levels - long after the PCs have left Torch. DMs that wish to relay his tragic tale to PCs may want to leave additional clues.
 
 ### B16. Blocked Exit
 
@@ -312,8 +312,7 @@ Machines here have Hardness 5, 20 HP (10 BT).
 
 - **Skills:**
   - **Disable a Device (Thievery): DC18 -** Picks the lock to the storage closet without a black access keycard.
-  - **Disable a Device (Thievery): DC20 -** Picks the lock to the white bin in the storage closet without a white access keycard.
-    - Remember to apply the -5 penalty if these checks aren't made with an expended charge of an [e-pick^](/Technology%20Guide/Gear/README.md#e-pick)
+  - **Disable a Device (Computers): DC20 -** Hacks the lock to the white bin in the storage closet without a white access keycard.
 
 - **Loot:** Storage Closet
   - 1x [Commercial Flashlight](https://2e.aonsrd.com/treasure/15-flashlight)
@@ -377,7 +376,6 @@ The white glaucite bin in the room has Hardness 5, HP 20 (BT 10). But smashing i
   - **Seek (Perception): DC15 -** Notices ceiling is hollow.
   - **Climb (Athletics): DC15 -** To climb the shaft above the elevator.
   - **Disable a Device (Thievery): DC15 -** To remove the broken element from the power cable
-    - This does not incur the -5 penalty for making a check on a technological device without an [e-pick^](/Technology%20Guide/Gear/README.md#e-pick) charge.
   - **Force Open (Athletics): DC15 -** To remove the broken element from the power cable.
   - **Repair (Crafting): DC21 -** To fix the broken element. Activity takes 8 hours instead of 10 minutes.
 - **XP Award:** Award the players 100 XP for fixing the Elevator
@@ -483,8 +481,7 @@ The locker's door has Hardness 9, HP 21 (BT 18) if the PCs wish to finish the jo
 
 - **Skills:**
   - **Recall Knowledge (Society): DC15 -** For a PC that understands Androffan to realise this is a manufacturing lab.
-  - **Disable a Device (Thievery): DC20 -** For a PC that understands Androffan to sabotage the machine.
-    - This check does not incur the -5 penalty for checks without an e-pick charge as the machine is already logged in.
+  - **Disable a Device (Computers): DC20 -** For a PC that understands Androffan to sabotage the machine.
 - **Creatures:**
   - 2x [Repair Drone^](Creatures/README.md#repair-drone)
 - **XP Award:** When the PCs activate the command core reboot for the first time, award them XP for any robots they have not yet defeated from Part 3 onwards. If they manage to destroy the command core, award them 80XP.
