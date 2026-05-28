@@ -48,13 +48,11 @@ In addition *[magic weapon](http://2e.aonprd.com/Spells.aspx?ID=182)* is no long
 
 #### Sanvil Trett's Items
 
-* 2x [Batteries^](/Technology%20Guide/Gear/README.md#battery)
-* [Ion tape^](/Technology%20Guide/Gear/README.md#ion-tape)
-* [Skillslot^](/Technology%20Guide/Cybertech/README.md#skillslot)
-* [Mark I Engineering Lore Skillchip^](/Technology%20Guide/Gear/README.md#skillchip)
-* [Torpinol^](/Technology%20Guide/Pharmaceuticals/README.md#torpinol)
-* [Universal serum^](../Items/README.md#universal-serum)
-* 2x [Vitality serum^](../Items/README.md#vitality-serum)
+* 2x [Commercial Batteries]
+* 1x [Commercial Flashlight]
+* 1x [Commercial Hacking Toolkit]
+* 1x [Infiltrator Serum]
+* 2x [Shimmerstone Serum]
 
 ### Vrilledt
 
