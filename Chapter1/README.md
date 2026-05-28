@@ -264,9 +264,7 @@ If the PCs restore power to the area (see [B12](#b12-habitat-controls)) the Biol
 - **Creatures:**
   - 1x [Elite Ghelarn^](Creatures/README.md#ghelarn)
 - **Loot**
-  - 1x [Lesser Vermin Repellent Agent](http://2e.aonprd.com/Equipment.aspx?ID=860)
-
-For the sake of the vermin repellant agent, ghelarns count as an arthropod.
+  - 1x [Swarmeater's Clasp](https://2e.aonprd.com/Equipment.aspx?ID=818)
 
 ### B10. Glowing Tunnel
 
