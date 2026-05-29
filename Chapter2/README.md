@@ -34,7 +34,7 @@ Level | XP Progression                          | Milestone
 ### Power Relay
 
 - **Skills:**
-  - **Recall Knowledge (Numerian Geography Lore, Engineering Lore or Society): DC20 -** If a player can speak Androffan, they can confirm the device was transmitting power to a spot 105 miles northeast from Torch - Scrapwall.
+  - **Recall Knowledge (Computers, Numerian Geography Lore, Engineering Lore or Society): DC20 -** If a player can speak Androffan, they can confirm the device was transmitting power to a spot 105 miles northeast from Torch - Scrapwall.
 
 ### Ensuring Torch's Safety
 
@@ -245,7 +245,7 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
   - 3x [Commercial Degradation Grenades](https://2e.aonsrd.com/treasure/178-degradation-grenade)
   - 2x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*2nd level summon undead*](https://2e.aonprd.com/Spells.aspx?ID=1706)
   - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*bind undead*](https://2e.aonprd.com/Spells.aspx?ID=22)
-  - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*Speak with Computers*](https://2e.aonsrd.com/spells/280-speak-with-computers)
+  - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*speak with Computers*](https://2e.aonsrd.com/spells/280-speak-with-computers)
   - 7x [Commercial Battery^](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
   - 22x Silverdisks
   - 53 gp, 6 sp
@@ -379,7 +379,7 @@ The door is made from [glaucite^](/Technology%20Guide/README.md#glaucite) (Hardn
   - 2x [Comm Unit](https://2e.aonsrd.com/treasure/7-comm-unit)
   - 1x [Darkvision Capacitors](https://2e.aonsrd.com/treasure/131-darkvision-capacitors)
   - 1x [Inhibitor Facet^](Items/README.md#memory-facet)
- - **XP Award:** If the PCs successfully decipher the message from the Envoy's Mouthpiece, award them 200 XP.
+ - **XP Award:** If the PCs successfully decipher the message from the Comm Unit, award them 200 XP.
 
 ## Part 3: Hellion's Domain
 
@@ -490,7 +490,7 @@ The central processor has Hardness 9, HP 36 (BT 18).
   - 2x [Advanced Medpatch](https://2e.aonsrd.com/treasure/35-medpatch)
 - **Skills:**
   - **Force Open (Athletics): DC30 -** To force open the doors of the cabinet.
-  - **Disable Device (Thievery): DC31 -** To pick the electronic locks of the cabinet.
+  - **Hack (Computers): DC31 -** To pick the electronic locks of the cabinet.
 
 The [glaucite^](/Technology%20Guide/README.md#glaucite) cabinet has hardness 10, HP 40 (BT 20)
 
