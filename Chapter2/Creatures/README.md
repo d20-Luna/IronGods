@@ -19,7 +19,7 @@ Hatchet-Hand is fashioned after an [Antipaladin](https://2e.aonprd.com/NPCs.aspx
 
 #### Ewhar Vress' Items
 
-* 2x [Gas Grenade^](../Items/README.md#gas-grenade)
+* 2x [Tactical Smoke Grenade](https://2e.aonsrd.com/treasure/105-smoke-grenade)
 * 2x [Soothe^](../Items/README.md#soothe)
 
 ### Aldronard
