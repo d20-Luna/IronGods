@@ -311,8 +311,8 @@ Machines here have Hardness 5, 20 HP (10 BT).
 ### C1. Security Desk
 
 - **Skills:**
-  - **Disable a Device (Thievery): DC18 -** Picks the lock to the storage closet without a black access keycard.
-  - **Disable a Device (Computers): DC20 -** Hacks the lock to the white bin in the storage closet without a white access keycard.
+  - **Hack (Computers): DC18 -** Hacks the lock to the storage closet without a black access keycard.
+  - **Hack (Computers): DC20 -** Hacks the lock to the white bin in the storage closet without a white access keycard.
 
 - **Loot:** Storage Closet
   - 1x [Commercial Flashlight](https://2e.aonsrd.com/treasure/15-flashlight)
@@ -392,9 +392,8 @@ The ceiling has Hardness 5, HP 20 (BT 10) for those that wish to climb the shaft
 ### C12. Sick Bay (120 XP, Severe Threat)
 
 - **Skills:**
-  - **Disable a Device (Thievery): DC20 -** To open the western doors without a white access keycard.
-  - **Disable a Device (Thievery): DC18 -** To open Khonnir's stasis pod without a black access keycard.
-    - Remember to apply the -5 penalty if these checks aren't made with an expended charge of an [e-pick^](/Technology%20Guide/Gear/README.md#e-pick)
+  - **Hack (Computers): DC20 -** To open the western doors without a white access keycard.
+  - **Hack (Computers): DC18 -** To open Khonnir's stasis pod without a black access keycard.
 - **Creatures:**
   - 2x [Medical Drone^](Creatures/README.md#medical-drone)
   - 1x [Collector Robot^](Creatures/README.md#collector-robot)
@@ -481,7 +480,7 @@ The locker's door has Hardness 9, HP 21 (BT 18) if the PCs wish to finish the jo
 
 - **Skills:**
   - **Recall Knowledge (Society): DC15 -** For a PC that understands Androffan to realise this is a manufacturing lab.
-  - **Disable a Device (Computers): DC20 -** For a PC that understands Androffan to sabotage the machine.
+  - **Hack (Computers): DC20 -** For a PC that understands Androffan to sabotage the machine.
 - **Creatures:**
   - 2x [Repair Drone^](Creatures/README.md#repair-drone)
 - **XP Award:** When the PCs activate the command core reboot for the first time, award them XP for any robots they have not yet defeated from Part 3 onwards. If they manage to destroy the command core, award them 80XP.
@@ -515,9 +514,8 @@ The machine has Hardness 5, HP 20 (BT 10) if PCs can't disable the machine and w
 ### D9. Reactor Core (120 XP - Severe Threat)
 
 - **Skills:**
-  - **Disable a Device (Thievery): DC20 -** Deactivates the power transmitter if the character doing so knows Androffan.
-  - **Disable a Device (Thievery): DC30 -** Deactivates the power transmitter If the character does not know Androffan.
-    - These checks do not incur the -5 penalty for checks without an e-pick charge as the terminals were already logged in.
+  - **Hack (Computers): DC20 -** Deactivates the power transmitter if the character doing so knows Androffan.
+  - **Disable a Device (Thievery): DC30 -** Deactivates the power transmitter if the character does not know Androffan.
 - **Creatures:**
   - 1x [Collector Robot^](Creatures/README.md#collector-robot)
   - 1x [Meyanda^](Creatures/README.md#meyanda)
