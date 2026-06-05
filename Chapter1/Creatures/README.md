@@ -74,8 +74,8 @@ Khonnir Baine is built as an evocation wizard with some alchemist and rogue feat
 
 #### Khonnir Baine's Items
 
-* *Scroll of [detect radiation^](/Technology%20Guide/README.md#detect-radiation)*
-* *Scroll of [technomancy^](/Technology%20Guide/Gear/README.md#ion-tape)*
+* *Scroll of [supercharge weapon]()*
+* *Scroll of [summon robot]()*
 
 ### Meyanda
 
