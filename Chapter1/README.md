@@ -208,6 +208,8 @@ Gremlin Caves are split into rooms marked A10a and A10b. Each one of these marke
 
 The wall here has Hardness 18, HP 72 (BT 36), if the PCs want to try smashing.
 
+# LEVEL 2
+
 ## Torch Event 1: Invitation to Silverdisk Hall
 
 [Garmen Ulreth^](Creatures/README.md#garmen-ulreth) gives the PCs a certificate for 15x silverdisks that can be exchanged at Silverdisk Hall.
@@ -300,6 +302,8 @@ Machines here have Hardness 5, 20 HP (10 BT).
 
 - **Skills:**
   - **Disable a Device (Thievery): DC20 -** Dismantles the jury-rigged seal and opens the door.
+
+# LEVEL 3
 
 ## Torch Event 2: Meeting Sanvil Trett
 
@@ -405,6 +409,8 @@ The ceiling has Hardness 5, HP 20 (BT 10) for those that wish to climb the shaft
   - 2x [Sprayflesh](https://2e.aonsrd.com/treasure/43-sprayflesh)
   - As well as all of [Khonnir Baine^](Creatures/README.md#khonnir-baine)'s gear.
 - **XP Award:** Award the players 400 XP for finally finding Khonnir Baine!
+
+# LEVEL 4
 
 ## Torch Event 3: Sanvil's Betrayal (40 XP - Trivial Threat)
 
@@ -529,6 +535,8 @@ The machine has Hardness 5, HP 20 (BT 10) if PCs can't disable the machine and w
   - 1x White-level access keycard
   - 18 gp, 6 sp
 - **XP Award:** If the PCs manage to deactivate the power transmitter and reboot the reactor, award them 80XP for concluding the adventure.
+
+# LEVEL 5
 
 ## Torch Gazetteer
 
