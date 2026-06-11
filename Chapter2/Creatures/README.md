@@ -106,7 +106,7 @@ Marrow is a reflavoured [Cult Leader](https://2e.aonprd.com/NPCs.aspx?ID=930) wi
 
 #### Redtooth's Items
 
-* [Force Needle](https://2e.aonsrd.com/equipment/weapons/15-force-needle)
+* [Tactical Force Needle](https://2e.aonsrd.com/equipment/weapons/15-force-needle)
 
 ### Helskarg
 
