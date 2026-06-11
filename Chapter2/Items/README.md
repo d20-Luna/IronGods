@@ -2,12 +2,6 @@
 
 New traits will be indicated with a carat (^) and are linked to their explanation.
 
-## Envoy's Mouthpiece
-
-**Traits** Uncommon, [Powered^](/Traits/README.md#powered), [Technology^](/Traits/README.md#technology)
-
-**Level** 6; **Price** 280 gp; **Usage** worn; **Bulk** L; **Capacity** 10; **Power Use** 1/hour; **Craft DC** 28
-
 ## Gas Grenade
 
 **Traits** Uncommon, Bomb, Consumable, [Grenade^](/Traits/README.md#grenade), Poison, [Technology^](/Traits/README.md#technology)
@@ -34,14 +28,9 @@ There are 3 types of facets in this adventure path:
 
 **Level** 7; **Price** 450 gp; **Damage** 1d4 mental; **Bulk** 1; **Hands** 1; **Range** 20 feet;
 
-**Category** Advanced; **Ammunition** [Nanite Canisters](../Gear/README.md#nanite-canister); **Group** Firearms; **Traits** Uncommon, Mental, [Technology^](/Traits/README.md#technology)
+**Category** Martial; **Ammunition** [Batteries](https://2e.aonsrd.com/equipment/ammunition/2-batteries); **Group** Mental; **Traits** Uncommon, Mental, [Technology^](/Traits/README.md#technology)
 
 **Capacity** 10; **Power Use** 1 charge; **Craft DC** 28
-
-On a successful hit, the creature struck by the mind burner must make a DC 21 Will Save
-
-* **Failure** The creature becomes stupefied 1;
-* **Critical Failure** The creature becomes stupefied 2;
 
 ## Soothe
 
@@ -52,13 +41,3 @@ On a successful hit, the creature struck by the mind burner must make a DC 21 Wi
 **Activate** (1 action) Interact;
 
 **Saving Throw** DC 19 Fortitude; **Maximum Duration** 1 hour; **Stage 1** regain 1d8 Hit Points, immune to bleed and anytime you gain the frightened condition, reduce its value by 1 (1 minute); **Stage 2** stupefied 1 (1 hour)
-
-## Wand of Technological Superiority (3rd-Level)
-
-**Traits** Electricity, Magical, Wand
-
-**Level** 8; **Price** 500 gp; **Usage** held in 1 hand; **Bulk** L
-
-This wand is made of various plates of glaucite and copper.
-
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [Recharge^](/Technology%20Guide#recharge), but the spell restores an additional charge at each DC.
