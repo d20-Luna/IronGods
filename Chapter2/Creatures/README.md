@@ -94,7 +94,7 @@ Marrow is a reflavoured [Cult Leader](https://2e.aonprd.com/NPCs.aspx?ID=930) wi
 
 #### Marrow's Items
 
-* 2x [Gas Grenade^](../Items/README.md#gas-grenade)
+* 2x [Tactical Smoke Grenade](https://2e.aonsrd.com/treasure/105-smoke-grenade)
 * 4x [Soothe^](../Items/README.md#soothe)
 
 ### Redtooth
@@ -106,7 +106,7 @@ Marrow is a reflavoured [Cult Leader](https://2e.aonprd.com/NPCs.aspx?ID=930) wi
 
 #### Redtooth's Items
 
-* [Dart Gun^](/Technology%20Guide/Weapons/README.md#dart-gun)
+* [Force Needle](https://2e.aonsrd.com/equipment/weapons/15-force-needle)
 
 ### Helskarg
 
@@ -124,7 +124,7 @@ Note that for Helskarg the autograpnel is considered a 1-handed weapon only due 
 
 #### Helskarg's Items
 
-* 1x [Autograpnel^](/Technology%20Guide/Weapons/README.md#autograpnel)
+* 1x [Autograppler](2e.aonsrd.com/treasure/2-autograppler)
 
 ### Hellion
 
@@ -156,10 +156,10 @@ Kulgara is a level 9 rage instinct barbarian.
 
 #### Kulgara's Items
 
-* 1x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [chainsaw^](/Technology%20Guide/Weapons/README.md#chainsaw)*
-* 1x [inferno grenade^](/Technology%20Guide/Gear/README.md#grenade)
-* 1x [plasma grenade^](/Technology%20Guide/Gear/README.md#grenade)
-* 1x [zero grenade^](/Technology%20Guide/Gear/README.md#grenade)
+* 1x [advanced fangblade](https://2e.aonsrd.com/equipment/weapons/14-fangblade)
+* 1x [advanced incendiary grenade](https://2e.aonsrd.com/treasure/104-incendiary-grenade)
+* 1x [tactical electromag grenade](https://2e.aonsrd.com/treasure/101-electromag-grenade)
+* 1x [tactical ossifying grenade](https://2e.aonsrd.com/treasure/182-ossifying-grenade)
 * 1x Green Access Keycard
 * 10x Silverdisks
 
@@ -174,7 +174,7 @@ Zagmaander is a [xill](https://2e.aonprd.com/Monsters.aspx?ID=866) brought up to
 
 #### Zagmaander's Items
 
-* 1x [Laser Torch^](/Technology%20Guide/Weapons/README.md#laser-torch)
+* 1x [tactical laser pistol](https://2e.aonsrd.com/equipment/weapons/40-laser-pistol)
 
 ### Draigs
 
@@ -193,8 +193,6 @@ Draigs is just an [ettin](https://2e.aonprd.com/Monsters.aspx?ID=204) brought up
 * [PDF](PDFs/HellionsChassis.pdf)
 
 Hellion's Chassis is an [Aggregate^](/Traits/README.md#aggregate) with Hellion installed. The modifications have already been included in this statblock.
-
-The chassis' plasma beam is an attack with the [plasma^](/Traits/README.md#plasma) and [beam^](/Traits/README.md#beam) traits.
 
 #### Hellion's Chassis' Items
 
@@ -241,7 +239,7 @@ No two rust-risen are meant to be the same, but feel free to pick any two augmen
 
 #### Skeletal Technician's Items
 
-* 1x destroyed [spacesuit^](/Technology%20Guide/Armor/README.md#spacesuit)
+* 1x destroyed [commercial estex suit](https://2e.aonsrd.com/equipment/armor/6-estex-suit)
 
 ### Orc Fanatic
 
