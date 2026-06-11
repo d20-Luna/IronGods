@@ -88,9 +88,9 @@ The capstone on the well has 40 Bulk, meaning it likely needs at least 4 creatur
 - **Skills:**
   - **Seek (Perception): DC 25 -** If Ilarris escaped, notice this door has been forced open recently.
 - **Loot:**
-  - 1x [Timeworn Arc Pistol^](/Technology%20Guide/Weapons/README.md#arc-pistol)
-  - 1x [Timeworn White Hologram Generator^](/Technology%20Guide/Gear/README.md#hologram-generator)
-  - 1x [Timeworn White Nanite Hypogun^](/Technology%20Guide/Gear/README.md#nanite-hypogun)
+  - 1x [advanced arc pistol](https://2e.aonsrd.com/equipment/weapons/36-arc-pistol)
+  - 1x [glamer projector](https://2e.aonsrd.com/treasure/58-glamer-projector)
+  - 1x [advanced hypopen](https://2e.aonsrd.com/treasure/36-hypopen)
   - 40x Silverdisks
 
 ### A5. Machine Shop (80 XP, Moderate Threat)
@@ -103,7 +103,7 @@ The door to this room has been repaired and only needs a single Interact action 
   - **Recall Knowledge (Engineering Lore): DC 30 -** To recognise the components here were intended to create a long-range communication device.
   - **Recall Knowledge (Extraterrestrial Lore): DC 30 -** To understand the meaning of Seerath's panic about the Dominion of the Black.
 - **Loot:**
-  - 3x Destroyed [Timeworn Commset^](/Technology%20Guide/Gear/README.md#commset)
+  - 3x Destroyed [comm units](https://2e.aonsrd.com/treasure/7-comm-unit)
 
 ### A6. Android Barracks (40 XP, Low Threat)
 
@@ -140,8 +140,8 @@ The door to this room has been repaired and only needs a single Interact action 
 - **Creatures:**
   - 1x [Augmented Gearsman^](Creatures/README.md#augmented-gearsman)
 - **Loot:**
-  - 3x Destroyed [HEV Suit^](/Technology%20Guide/Armor/README.md#hev-suit)
-  - 1x [Timeworn Filter Mask^](/Technology%20Guide/Gear/README.md#filter-mask)
+  - 3x Destroyed [defiance series](https://2e.aonsrd.com/equipment/armor/18-defiance-series)
+  - 1x [advanced filtered rebreather](https://2e.aonsrd.com/treasure/47-filtered-rebreather)
 
 ### A12. Canister Access
 
@@ -164,9 +164,9 @@ The door here has Hardness 18, HP 72 (BT 36)
   - 1x Sahasho - An Elite [Invisible Stalker](https://2e.aonprd.com/Monsters.aspx?ID=179). Indifferent, Perception DC 28, Will DC 23
     - PCs wanting to help Sahasho need to cast [*banishment*](https://2e.aonprd.com/Spells.aspx?ID=19) or [*plane shift*](https://2e.aonprd.com/Spells.aspx?ID=222)
 - **Loot:** Hidden Panel
-  - 5x [Nanite Canister^](/Technology%20Guide/Gear/README.md#nanite-canister)
-  - 1x [Timeworn Black Nanite Hypogun^](/Technology%20Guide/Gear/README.md#nanite-hypogun)
-  - 1x [Dart Gun^](/Technology%20Guide/Weapons/README.md#dart-gun)
+  - 5x [advanced batteries](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
+  - 1x [superior hypopen](https://2e.aonsrd.com/treasure/36-hypopen)
+  - 1x [advanced force needle](https://2e.aonsrd.com/equipment/weapons/15-force-needle)
 
 ## Part 3: Smokewood
 
