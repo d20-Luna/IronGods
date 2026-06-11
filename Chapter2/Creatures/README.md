@@ -60,10 +60,10 @@ Dinvaya is built as an Elite [Priest of Pharasma]() with her spells more aligned
 
 #### Dinvaya's Items
 
-* 2x [Bang Grenade^](/Technology%20Guide/Gear/README.md#grenade)
-* 1x [Inferno Grenade^](/Technology%20Guide/Gear/README.md#grenade)
-* 2x [Battery^](/Technology%20Guide/Gear/README.md#battery)
-* 1x [Gravity Clip^](/Technology%20Guide/Gear/README.md#gravity-clip)
+* 2x [Commercial Flash Grenade](https://2e.aonsrd.com/treasure/102-flash-grenade)
+* 1x [Tactical Incendiary Grenade](https://2e.aonsrd.com/treasure/104-incendiary-grenade)
+* 2x [Commercial Batteries](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
+* 1x [Iron Cube](https://2e.aonprd.com/Equipment.aspx?ID=2980)
 
 ### Gunshy
 
