@@ -246,7 +246,7 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
   - 2x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*2nd level summon undead*](https://2e.aonprd.com/Spells.aspx?ID=1706)
   - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*bind undead*](https://2e.aonprd.com/Spells.aspx?ID=22)
   - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [*speak with Computers*](https://2e.aonsrd.com/spells/280-speak-with-computers)
-  - 7x [Commercial Battery^](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
+  - 7x [Commercial Battery](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
   - 22x Silverdisks
   - 53 gp, 6 sp
 
@@ -291,18 +291,18 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
 #### J6. Redtooth's Lair
 
 - **Loot:**
-  - 5x [Commercial Battery^](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
-  - 2x [Tactical Battery^](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
+  - 5x [Commercial Battery](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
+  - 2x [Tactical Battery](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
   - 1x [Tactical Zero Knife](https://2e.aonsrd.com/equipment/weapons/7-zero-knife)
   - 2x [Commercial Electromag Grenades](https://2e.aonsrd.com/treasure/101-electromag-grenade)
   - 1x [Tactical Frag Grenade](https://2e.aonsrd.com/treasure/103-frag-grenade)
-  - 3x [Commercial Ossifying Grenade^](https://2e.aonsrd.com/treasure/182-ossifying-grenade)
+  - 3x [Commercial Ossifying Grenade](https://2e.aonsrd.com/treasure/182-ossifying-grenade)
   - 1x [Tactical Medkit](https://2e.aonsrd.com/treasure/26-medkit)
 
 ### K. Manticore Lair (40 XP, Trivial Threat)
 
 - **Creatures:**
-  - 1x Elite [Manticore](https://2e.aonprd.com/Monsters.aspx?ID=294) - add the special ability of exposing anyone hit with its jaw Strike to [Low Radiation^](/Technology%20Guide/README.md#radiation)
+  - 1x Elite [Manticore](https://2e.aonprd.com/Monsters.aspx?ID=294) - add the special ability of exposing anyone hit with its jaw Strike to [Mild Radiation](https://2e.aonsrd.com/afflictions/diseases/2-radiation-sickness-mild)
 - **Hazards:**
   - The Manticore's nest is hazardous terrain that deals 5 points of slashing damage to any non-Manticore creature that moves through a square or ends its turn there.
 - **Loot:** 
@@ -324,7 +324,7 @@ It takes the Smilers in H3 three total actions to open the doors should they wis
 - **Skills:**
   - **Recall Knowledge (Engineering Lore): DC18 -** To know where to place the [cylex^](/Technology%20Guide/Gear/README.md#cylex).
   - **Climb (Athletics): DC15 -** To reach the support structures of the array.
-  - **Disable a Device (Thievery): DC13 -** To arm the [cylex^](/Technology%20Guide/Gear/README.md#cylex)
+  - **Hack (Computers): DC13 -** To arm the [cylex^](/Technology%20Guide/Gear/README.md#cylex)
 - **XP Award:** If the PCs successfully destroy the receiver array, award them 200 XP.
 
 #### N4. Holding Chamber
