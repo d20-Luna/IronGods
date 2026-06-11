@@ -292,7 +292,7 @@ Machines here have Hardness 5, 20 HP (10 BT).
   - 1x [Hetuath^](Creatures/README.md#hetuath)
 - **Loot:** On Hetuath's body
   - 2x *[+1 striking shortswords](http://2e.aonprd.com/Weapons.aspx?ID=43)*
-  - 1x *[Coyote cloak](http://2e.aonprd.com/Equipment.aspx?ID=426)*
+  - 1x *[Backfire mantle](https://2e.aonprd.com/Equipment.aspx?ID=1040)*
 - **Loot:** Under the table.
   - 1x Black-level access keycard
 
