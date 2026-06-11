@@ -48,11 +48,11 @@ In addition *[magic weapon](http://2e.aonprd.com/Spells.aspx?ID=182)* is no long
 
 #### Sanvil Trett's Items
 
-* 2x [Commercial Batteries]
-* 1x [Commercial Flashlight]
-* 1x [Commercial Hacking Toolkit]
-* 1x [Infiltrator Serum]
-* 2x [Shimmerstone Serum]
+* 2x [Commercial Batteries](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
+* 1x [Commercial Flashlight](https://2e.aonsrd.com/treasure/15-flashlight)
+* 1x [Commercial Hacking Toolkit](https://2e.aonsrd.com/treasure/16-hacking-toolkit)
+* 1x [Infiltrator Serum](https://2e.aonsrd.com/treasure/40-infiltrator-serum)
+* 2x [Shimmerstone Serum](https://2e.aonsrd.com/treasure/41-shimmerstone-serum)
 
 ### Vrilledt
 
@@ -74,8 +74,8 @@ Khonnir Baine is built as an evocation wizard with some alchemist and rogue feat
 
 #### Khonnir Baine's Items
 
-* *Scroll of [supercharge weapon]()*
-* *Scroll of [summon robot]()*
+* *Scroll of [supercharge weapon](https://2e.aonsrd.com/spells/308-supercharge-weapon)*
+* *Scroll of [summon robot](https://2e.aonsrd.com/spells/305-summon-robot)*
 
 ### Meyanda
 
