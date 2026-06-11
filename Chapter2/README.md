@@ -210,7 +210,7 @@ The iron gear doors have Hardness 18, 72 HP (36 BT).
 - **Hazards:**
   - [Laser Turret^](Hazards/README.md#laser-turret)
 - **Loot:**
-  - [Tactical Laser Rifle^](https://2e.aonsrd.com/equipment/weapons/41-laser-rifle) - If the Laser Turret was deactivated without breaking it.
+  - [Tactical Laser Rifle](https://2e.aonsrd.com/equipment/weapons/41-laser-rifle) - If the Laser Turret was deactivated without breaking it.
 
 #### H2. Waiting Room (60 - 100 XP, Low to Moderate Threat)
 
