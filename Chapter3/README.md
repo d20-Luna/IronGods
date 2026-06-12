@@ -52,7 +52,7 @@ Before power is returned to the wreck, all doors here are shut unless otherwise 
 
 - **Attacking** Doors have Hardness 10, HP 40 (BT 20)
 - **Force Open (Athletics)** DC 25
-- **Disable a Device (Thievery)** DC 25 - Remember to add a -5 penalty if an [e-pick^](/Technology%20Guide/Gear/README.md#e-pick) charge wasn't expended.
+- **Hack (Computers)** DC 25
 
 ### The Cursed Well (4 XP, Trivial Threat)
 
@@ -236,7 +236,7 @@ The information gotten will be on page 26 of *[Pathfinder Adventure Path #87: Th
 - **Creatures:**
   - 2x [Riot Suppressors^](Creatures/README.md#riot-suppressor)
 - **Loot:** Toolbox
-  - 11x [Battery^](/Technology%20Guide/Gear/README.md#battery)
+  - 11x [commercial batteries](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
 
 ### F4. Hallway (120 XP, Severe Threat)
 
@@ -256,8 +256,8 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 
 - **Loot:**
   - 1x Furkas Xoud's [spellbook](https://2e.aonprd.com/Equipment.aspx?ID=53). Contains the following spells:
-    - **2nd** *[dispel magic](https://2e.aonprd.com/Spells.aspx?ID=78), [mirror image](https://2e.aonprd.com/Spells.aspx?ID=197), [obscuring mist](https://2e.aonprd.com/Spells.aspx?ID=210)*
-    - **1st** *[magic missile](https://2e.aonprd.com/Spells.aspx?ID=180), [mage armor](https://2e.aonprd.com/Spells.aspx?ID=176), [technomancy^](/Technology%20Guide/README.md#technomancy)*
+    - **2nd** *[dispel magic](https://2e.aonprd.com/Spells.aspx?ID=78), [mirror image](https://2e.aonprd.com/Spells.aspx?ID=197), [mist](https://2e.aonprd.com/Spells.aspx?ID=210)*
+    - **1st** *[force barrage](https://2e.aonprd.com/Spells.aspx?ID=180), [mystic armor](https://2e.aonprd.com/Spells.aspx?ID=176), [thunderstrike](https://2e.aonsrd.com/spells/324-thunderstrike)*
 
 ### F7. Reading Nook (60 XP, Low Threat)
 
@@ -279,7 +279,7 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 - **Skills:**
   - **Force Open (Athletics): DC 10 -** To peel the nanite coccoon off the wall.
   - **Seek (Perception): DC 30 -** To notice a tiny crack in the wall where the coccoon was.
-  - **Identify Technology (Engineering Lore): DC 30 -** To know the nanites are laying dormant until brought near what they're supposed to do.
+  - **Recall Knowledge (Engineering Lore or Computers): DC 30 -** To know the nanites are laying dormant until brought near what they're supposed to do.
 
 ### F14. Third-Floor Stairwell
 
@@ -291,10 +291,10 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 - **Loot:**
   - 1x [Expanded Alchemist Lab](https://2e.aonprd.com/Equipment.aspx?ID=543)
   - 3x *[Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [gaseous form](https://2e.aonprd.com/Spells.aspx?ID=129)*
-  - 1x [Cardioamp^](/Technology%20Guide/Pharmaceuticals/README.md#cardioamp)
-  - 1x [Cureall^](/Technology%20Guide/Pharmaceuticals/README.md#cureall)
-  - 3x [Grade III Hemochem^](/Technology%20Guide/Pharmaceuticals/README.md#hemochem)
-  - 4x [Torpinol^](/Technology%20Guide/Pharmaceuticals/README.md#torpinol)
+  - 1x [elite hypopen](https://2e.aonsrd.com/treasure/36-hypopen)
+  - 1x [superior hypopen](https://2e.aonsrd.com/treasure/36-hypopen)
+  - 3x [advanced medpatches](https://2e.aonsrd.com/treasure/35-medpatch)
+  - 4x [advanced hypopens](https://2e.aonsrd.com/treasure/36-hypopen)
 
 ### F16. Lab 2: Fluid Siponing Research (80 XP, Moderate Threat)
 
@@ -312,11 +312,11 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
   - 1x [*energy robe (cold)*](https://2e.aonprd.com/Equipment.aspx?ID=1317)
   - 1x *[wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [gust of wind](https://2e.aonprd.com/Spells.aspx?ID=143)*
   - 1x Anada Visk's [spellbook](https://2e.aonprd.com/Equipment.aspx?ID=53) - contains everything a [Ghost Mage](https://2e.aonprd.com/Monsters.aspx?ID=217) has "prepared" and an additional:
-    - 2 4th-level spells
-    - 1 3rd-level spell
-    - 3 2nd-level spells
-    - 6 1st-level spells
-    - 5 cantrips
+    - 2 4th-level spells - [flicker](https://2e.aonsrd.com/spells/114-flicker), [planar tether](https://2e.aonsrd.com/spells/223-planar-tether)
+    - 1 3rd-level spell - [discharge](https://2e.aonsrd.com/spells/66-discharge)
+    - 3 2nd-level spells - [doom scroll](https://2e.aonsrd.com/spells/77-doom-scroll), [instant virus](https://2e.aonsrd.com/spells/163-instant-virus), [logic bomb](https://2e.aonsrd.com/spells/176-logic-bomb)
+    - 6 1st-level spells - [cellular stimulant](https://2e.aonsrd.com/spells/33-cellular-stimulant), [delete](https://2e.aonsrd.com/spells/59-delete), [mending](https://2e.aonsrd.com/spells/182-mending), [mindlink](https://2e.aonsrd.com/spells/188-mindlink), [summon robot](https://2e.aonsrd.com/spells/305-summon-robot), [supercharge weapon](https://2e.aonsrd.com/spells/308-supercharge-weapon)
+    - 5 cantrips - [analyze target](https://2e.aonsrd.com/spells/9-analyze-target), [implant data](https://2e.aonsrd.com/spells/156-implant-data), [injury echo](https://2e.aonsrd.com/spells/161-injury-echo), [recharge weapon](https://2e.aonsrd.com/spells/236-recharge-weapon), [ricochet](https://2e.aonsrd.com/spells/246-ricochet)
 
 ### F18. Fourth-Floor Atrium (80 XP, Moderate Threat)
 
@@ -339,13 +339,13 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
   - 1x [Shocking Door^](Hazards/README.md#shocking-door)
 - **Loot:** Secret Shelf
   - 3 spellbooks. Contains all spells Furkas Xoud has prepared and an additional:
-    - 1 6th-level spell
-    - 1 5th-level spell
-    - 1 4th-level spell
-    - 1 3rd-level spell
-    - 1 2nd-level spell
-    - 4 1st-level spells
-    - 6 cantrips
+    - 1 6th-level spell - [promession](https://2e.aonsrd.com/spells/229-promession)
+    - 1 5th-level spell - [control machine](https://2e.aonsrd.com/spells/46-control-machine)
+    - 1 4th-level spell - [speak with computers](https://2e.aonsrd.com/spells/280-speak-with-computers)
+    - 1 3rd-level spell - [lightning bolt](https://2e.aonsrd.com/spells/173-lightning-bolt)
+    - 1 2nd-level spell - [translate](https://2e.aonsrd.com/spells/327-translate)
+    - 4 1st-level spells - [dizzying colors](https://2e.aonsrd.com/spells/75-dizzying-colors), [glow up](https://2e.aonsrd.com/spells/127-glow-up), [overheat](https://2e.aonsrd.com/spells/206-overheat), [thunderstrike](https://2e.aonsrd.com/spells/324-thunderstrike)
+    - 6 cantrips - [adhere](https://2e.aonsrd.com/spells/3-adhere), [caustic blast](https://2e.aonsrd.com/spells/31-caustic-blast), [figment](https://2e.aonsrd.com/spells/110-figment), [measure](https://2e.aonsrd.com/spells/181-measure), [stumble](https://2e.aonsrd.com/spells/288-stumble), [telekinetic projectile](https://2e.aonsrd.com/spells/318-telekinetic-projectile)
 - **Creatures:**
   - 1x [Furkas Xoud^](Creatures/README.md#furkas-xoud)
 
@@ -356,7 +356,7 @@ Note that Furkas Xoud retreats after taking 30 damage.
 - **Hazards:**
   - 1x [Suffocating spirits^](Hazards/README.md#suffocating-spirits)
 - **Loot:**
-  - 1x [Wirejack Tendons^](/Technology%20Guide/Cybertech/README.md#wirejack-tendons)
+  - 1x [tactical speed suspension](https://2e.aonsrd.com/treasure/139-speed-suspension)
 
 ### F27. Foundry (80 XP, Moderate Threat)
 
@@ -375,7 +375,7 @@ Note that Furkas Xoud retreats after taking 30 damage.
   - 200x Bolts
   - 20x [Silver Bolts](https://2e.aonprd.com/Equipment.aspx?ID=379)
   - 40x [Cold Iron Bolts](https://2e.aonprd.com/Equipment.aspx?ID=375)
-  - 5x *[Terrifying Ammounition](https://2e.aonprd.com/Equipment.aspx?ID=725)*
+  - 5x *[Terrifying Ammunition](https://2e.aonprd.com/Equipment.aspx?ID=725)*
   - 10x [Adamantine Bolts](https://2e.aonprd.com/Equipment.aspx?ID=374)
 
 ### F30. Forge Supplies (80 XP, Moderate Threat)
@@ -418,11 +418,11 @@ Note that Furkas Xoud retreats almost immediately.
   - Scholarly Journals (2 bulk)
     - Decipher Writing can be used on the journals if the character knows Androffan to gain a +2 circumstance bonus on Recall Knowledge checks with Engineering Lore, Swarm Lore and  Air Lore.
   - 120x Silverdisks
-  - 4x [Ion Tape^](/Technology%20Guide/Gear/README.md#ion-tape)
-  - 2x [Zipstick^](/Technology%20Guide/Gear/README.md#zipstick)
-  - 1x [Timeworn Chemalyzer^](/Technology%20Guide/Gear/README.md#chemalyzer)
-  - 2x [Nanite Canister^](/Technology%20Guide/Gear/README.md#nanite-canister)
-  - 1x [Timeworn Fire Extinguisher^](/Technology%20Guide/Gear/README.md#fire-extinguisher)
+  - 4x [holosparks](https://2e.aonsrd.com/treasure/18-holospark)
+  - 2x [matchsticks](https://2e.aonprd.com/Equipment.aspx?ID=3356)
+  - 1x [chemalyzer](https://2e.aonsrd.com/treasure/5-chemalyzer)
+  - 2x [advanced batteries](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
+  - 1x [advanced fire extinguisher](https://2e.aonsrd.com/treasure/14-fire-extinguisher)
   - 3x *[Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [gaseous form](https://2e.aonprd.com/Spells.aspx?ID=129)*
   - 1x [*horn of fog*](https://2e.aonprd.com/Equipment.aspx?ID=258)
   - 1x *[bottled air](https://2e.aonprd.com/Equipment.aspx?ID=250)*
@@ -469,14 +469,13 @@ The deathtrap ooze is currently in its Trap Form as a [Bone-Scything Lash^](Haza
   - 1x Narvin Haruvex, a Weak [Worm That Walks](https://2e.aonprd.com/Monsters.aspx?ID=864)
 - **Loot:**
   - 3x *[Cognitive Mutagen (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=87)*
-  - 1x [Nutrient Training Node^](Items/README.md#nutrient-training-node)
+  - 1x [cardiac accelerator](https://2e.aonsrd.com/treasure/130-cardiac-accelerator)
 
 ### G8. Smoke Furnace
 
 - **Skills:**
-  - **Disable a Device (Thievery): DC 35 -** To open the door to [G9](#g9-lab-zero-mnemotechnic-recovery-160-xp-extreme-threat)
+  - **Hack (Computers): DC 35 -** To open the door to [G9](#g9-lab-zero-mnemotechnic-recovery-160-xp-extreme-threat)
   - **Force Open (Athletics): DC 40 -** To open the door to [G9](#g9-lab-zero-mnemotechnic-recovery-160-xp-extreme-threat)
-  - **Recall Knowledge (Engineering Lore): DC 25 -** To know that using a [nanite canister^](/Technology%20Guide/Gear/README.md#nanite-canister) on the door can reduce the above DCs to open it by 5.
 - **XP Award:** Grant the PCs 40 XP when they manage to open the door to [G9.](#g9-lab-zero-mnemotechnic-recovery-160-xp-extreme-threat)
 
 ### G9. Lab Zero: Mnemotechnic Recovery (160 XP, Extreme Threat)
