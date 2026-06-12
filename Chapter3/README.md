@@ -487,10 +487,10 @@ The deathtrap ooze is currently in its Trap Form as a [Bone-Scything Lash^](Haza
 Here is the only place where Furkas Xoud fights to the (re)death.
 
 - **Loot:**
-  - 1x [Scatterlight Suit^](/Technology%20Guide/Armor/README.md#scatterlight-suit)
+  - 1x [superior hardlight series](https://2e.aonsrd.com/equipment/armor/7-hardlight-series)
   - 22x [Moderate Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186)
-  - 1x *[+1](https://2e.aonprd.com/Equipment.aspx?ID=281) [striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [EMP Pistol^](/Technology%20Guide/Weapons/README.md#emp-pistol)*
-  - 1x [Laser Sight^](/Technology%20Guide/Gear/README.md#laser-sight) - attached to EMP Pistol
+  - 1x [superior arc pistol](https://2e.aonsrd.com/equipment/weapons/36-arc-pistol)
+  - 1x [advanced sniper's scope](https://2e.aonsrd.com/treasure/80-snipers-scope) - attached to arc pistol
   - 1x *[ring of maniacal devices](https://2e.aonprd.com/Equipment.aspx?ID=457)*
   - 1x *[vaporous pipe](https://2e.aonprd.com/Equipment.aspx?ID=2198)*
   - 1x *[brooch of shielding](https://2e.aonprd.com/Equipment.aspx?ID=418)*
@@ -511,7 +511,7 @@ The appendix of this book offers three side-quest adventures that can be done af
 #### A1. Observatory
 
 - **Skills:**
-  - **Recall Knowledge (Engineering Lore): DC 25 -** To reactivate some of the ship's systems with a battery charge.
+  - **Hack (Computers): DC 25 -** To reactivate some of the ship's systems with a battery charge.
 
 #### A2. Elevators
 
