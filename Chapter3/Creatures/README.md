@@ -19,9 +19,9 @@ Ilarris is built like [Mialari Docur](https://2e.aonprd.com/NPCs.aspx?ID=1561) b
 
 Ilarris' spellbook contains the following spells in addition to the ones she has prepared:
 
-* **3rd** *[levitate](https://2e.aonprd.com/Spells.aspx?ID=170)*
-* **2nd** *[humanoid form](https://2e.aonprd.com/Spells.aspx?ID=153), [phantom steed](https://2e.aonprd.com/Spells.aspx?ID=221)*
-* **1st** *[burning hands](https://2e.aonprd.com/Spells.aspx?ID=30), [color spray](https://2e.aonprd.com/Spells.aspx?ID=44), [illusory object](https://2e.aonprd.com/Spells.aspx?ID=160)*
+* **3rd** *[levitate](https://2e.aonprd.com/Spells.aspx?ID=1584)*
+* **2nd** *[humanoid form](https://2e.aonprd.com/Spells.aspx?ID=1560), [marvelous mount](https://2e.aonprd.com/Spells.aspx?ID=1594)*
+* **1st** *[breathe fire](https://2e.aonprd.com/Spells.aspx?ID=1457), [dizzying colors](https://2e.aonprd.com/Spells.aspx?ID=1500), [illusory object](https://2e.aonprd.com/Spells.aspx?ID=1569)*
 
 ### Seerath
 
@@ -34,10 +34,10 @@ Seerath is built as a [Scarlet Triad Sniper](https://2e.aonprd.com/NPCs.aspx?ID=
 
 #### Seerath's Items
 
-* 1x [Scatterlight Suit^](/Technology%20Guide/Armor/README.md#scatterlight-suit)
-* 1x [Timeworn Zero Pistol^](/Technology%20Guide/Weapons/README.md#zero-pistol)
-* 5x [Concussion Grenade^](/Technology%20Guide/Gear/README.md#grenade)
-* 2x [Battery^](/Technology%20Guide/Gear/README.md#battery)
+* 1x [advanced tempweave](https://2e.aonsrd.com/equipment/armor/11-tempweave)
+* 1x [advanced zero pistol](https://2e.aonsrd.com/equipment/weapons/48-zero-pistol)
+* 5x [advanced frag grenades](https://2e.aonsrd.com/treasure/103-frag-grenade)
+* 2x [advanced batteries](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
 
 ### Cavavenchian
 
@@ -100,7 +100,7 @@ The Rockshell Snipper is a mutant cryptid variant of a Giant Snapping Turtle
 
 #### Gearsman Mk. II's Items
 
-* 1x [Timeworn Laser Pistol^](/Technology%20Guide/Weapons/README.md#laser-pistol)
+* 1x [advanced laser pistol](https://2e.aonsrd.com/equipment/weapons/40-laser-pistol)
 
 ### Augmented Gearsman
 
@@ -111,7 +111,7 @@ The Rockshell Snipper is a mutant cryptid variant of a Giant Snapping Turtle
 
 #### Augmented Gearsman's Items
 
-* 1x [Timeworn Laser Rifle^](/Technology%20Guide/Weapons/README.md#laser-rifle)
+* 1x [advanced laser rifle](https://2e.aonsrd.com/equipment/weapons/41-laser-rifle)
 
 ### Warden Robot
 
