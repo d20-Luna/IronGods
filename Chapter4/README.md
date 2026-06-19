@@ -114,7 +114,7 @@ Level | XP Progression          | Milestone
 
 - **Loot:**
   - 1x Blue Sapphire (worth 100 gp)
-  - 1x [Firedrake Pistol^](Items/README.md#drake-pistol)
+  - 1x [advanced rotolaser](https://2e.aonsrd.com/equipment/weapons/58-rotolaser)
   - 1x [Compassion Facet^](Items/README.md#memory-facet)
 
 ## Part 2: An Alien Ally
@@ -193,10 +193,10 @@ Level | XP Progression          | Milestone
  
 - **Loot:**
   - **Inside the Glaucite Safe:**
-    - 4x [Arc Grenades^](/Technology%20Guide/Gear/README.md#grenade)
-    - 8x [EMP Grenades^](/Technology%20Guide/Gear/README.md#grenade)
-    - 1x [EMP Pistol^](/Technology%20Guide/Weapons#emp-pistol)
-    - 1x [Arc Rifle^](/Technology%20Guide/Weapons#arc-rifle)
+    - 4x [superior electromag grenades](https://2e.aonsrd.com/treasure/101-electromag-grenade)
+    - 8x [tactical electromag grenades](https://2e.aonsrd.com/treasure/101-electromag-grenade)
+    - 1x [superior pulsecaster pistol](https://2e.aonsrd.com/equipment/weapons/42-pulsecaster-pistol)
+    - 1x [superior arc rifle](https://2e.aonsrd.com/equipment/weapons/37-arc-rifle)
 
 ## Part 3: The Whispering Dark
 
@@ -253,7 +253,7 @@ Level | XP Progression          | Milestone
   - 4x [Elite Mi-Gos](https://2e.aonprd.com/Monsters.aspx?ID=1227&Elite=true)
  
 - **Loot:**
-  - 1 of 2 bracelets of a [Force Field^](Items/README.md#force-field)
+  - [superior force field](https://2e.aonsrd.com/treasure/57-force-field)
   - 4x [Brain Cylinders^](Items/README.md#brain-cylinder)
  
 ### H6. Surface Access (?? XP, ??? Threat)
@@ -293,7 +293,7 @@ Level | XP Progression          | Milestone
  
 - **Loot:**
   - *[+2](https://2e.aonprd.com/Equipment.aspx?ID=278) [Greater Fire Resistant](https://2e.aonprd.com/Equipment.aspx?ID=283) [Chain Mail](https://2e.aonprd.com/Armor.aspx?ID=9)*
-  - 1 of 2 bracelets of a [Force Field^](Items/README.md#force-field)
+  - [advanced force field](https://2e.aonsrd.com/treasure/57-force-field)
  
 - **XP Award:** If the PCs manage to navigate this room and recover its treasures, award them ?? XP.
 
@@ -323,15 +323,15 @@ Level | XP Progression          | Milestone
 
 - **Loot:**
   - 1x [Bracers of Armor II](https://2e.aonprd.com/Equipment.aspx?ID=416)
-  - 1x *[+2](https://2e.aonprd.com/Equipment.aspx?ID=281) [Greater Striking](https://2e.aonprd.com/Equipment.aspx?ID=280) [Laser Pistol^](/Technology%20Guide/Weapons/README.md#laser-pistol)
+  - 1x [superior boom pistol](https://2e.aonsrd.com/equipment/weapons/51-boom-pistol)
   - 1x [Wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [Fly](https://2e.aonprd.com/Spells.aspx?ID=125)
-  - 1x [Wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [Technomancy^](Technology%20Guide#technomancy)
+  - 1x [Wand](https://2e.aonprd.com/Equipment.aspx?ID=368) of [control machine](https://2e.aonsrd.com/spells/46-control-machine)
   - 1x Red-level access keycard
   - 1x Therace Holiyard's [spellbook](https://2e.aonprd.com/Equipment.aspx?ID=53). Contains the following spells:
-    - **4th** *[rebuke technology^](/Technology%20Guide/README.md#rebuke-technology)*
-    - **3rd** *[irradiate^](/Technology%20Guide/README.md#irradiate), [recharge^](/Technology%20Guide/README.md#recharge)*
-    - **2nd** *[detect radiation^](/Technology%20Guide/README.md#detect-radiation)*
-    - **1st** *[technomancy^](/Technology%20Guide/README.md#technomancy)*
+    - **4th** *[speak with computers](https://2e.aonsrd.com/spells/280-speak-with-computers)*
+    - **3rd** *[electrotether](https://2e.aonsrd.com/spells/87-electrotether), [irradiate](https://2e.aonsrd.com/spells/166-irradiate)*
+    - **2nd** *[caustic conversion](https://2e.aonsrd.com/spells/32-caustic-conversion)*
+    - **1st** *[supercharge weapon](https://2e.aonsrd.com/spells/308-supercharge-weapon)*
    
 - **XP Awards:** For discovering Therace's brain, award the PCs ??? XP.
 
@@ -365,9 +365,9 @@ Level | XP Progression          | Milestone
     - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [Blazing Fissure](https://2e.aonprd.com/Spells.aspx?ID=870)
     - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=640) of [Water Breathing (3rd Level)](https://2e.aonprd.com/Spells.aspx?ID=370)
   - 1x [Dragon's Breath Potion (Adult Copper)](https://2e.aonprd.com/Equipment.aspx?ID=185)
-  - 1x [Flashlight^](/Technology%20Guide/Gear#flashlight)
-  - 1x [Pair of Veemod Goggles^](/Technology%20Guide/Gear#veemod-goggles) with [Green Veemod^](/Technology%20Guide/Gear#veemod) installed
-  - 1x [Skillslot^](/Technology%20Guide/Cybertech#skillslot) with [Acrobatics Skillchip Mark III^](/Technology%20Guide/Gear#skillchip) installed
+  - 1x [tactical flashlight](https://2e.aonsrd.com/treasure/15-flashlight)
+  - 1x [commercial truesight sight](https://2e.aonsrd.com/treasure/81-truesight-sight)
+  - 1x [advanced datajack](https://2e.aonsrd.com/treasure/132-datajack)
  
 ### K4. The Stained Chamber (?? XP, ??? Threat)
 
@@ -379,9 +379,9 @@ Level | XP Progression          | Milestone
   - 1x *[+2](https://2e.aonprd.com/Equipment.aspx?ID=281) [Greater Striking](https://2e.aonprd.com/Equipment.aspx?ID=280] [Shifting](https://2e.aonprd.com/Equipment.aspx?ID=302) [Longsword](https://2e.aonprd.com/Weapons.aspx?ID=31)*
   - Leather Pouch
     - 12x Amethysts (worth 10 gp each)
-    - 10x [Batteries^](/Technology%20Guide/Gear#battery)
+    - 10x [tactical batteries](https://2e.aonsrd.com/equipment/ammunition/2-batteries)
   - 1x Yegrexi's [spellbook](https://2e.aonprd.com/Equipment.aspx?ID=53). Contains your choice of spells.
-  - 1x [Timeworn Robojack^](Items/README.md#robojack) with 4 charges remaining
+  - 1x [advanced hacking toolkit](https://2e.aonsrd.com/treasure/16-hacking-toolkit)
  
 ## Part 4: Dominion of the Black
 
@@ -440,8 +440,8 @@ Level | XP Progression          | Milestone
   - 7x Black Star Sapphires (worth 100 gp each)
   - 1x *[+3](https://2e.aonprd.com/Equipment.aspx?ID=278) [Splint Mail](https://2e.aonprd.com/Armor.aspx?ID=11)*
   - 1x [Major Staff of Healing](https://2e.aonprd.com/Equipment.aspx?ID=357)
-  - 1x [Blue Veemod^](/Technology%20Guide/Gear#veemod)
-  - 1x [Rocket Launcher^](/Technology%20Guide/Weapons/README.md#rocket-launcher)
+  - 1x [superior filtered rebreather](https://2e.aonsrd.com/treasure/47-filtered-rebreather)
+  - 1x [superior grenade launcher](https://2e.aonsrd.com/treasure/106-grenade-launcher)
   - 1x [Ingenuity Facet^](Items/README.md#memory-facet)
  
 - **XP Awards:** If the PCs can learn about the Dominion and the hive, award them ?? XP.
@@ -511,9 +511,9 @@ Level | XP Progression          | Milestone
   - 2x [Brain Collectors](https://2e.aonprd.com/Monsters.aspx?ID=57)
  
 - **Loot:**
-  - 1x [Pair of Cybernetic Eyes^](/Technology%20Guide/Cybertech/README.md#cybernetic-eyes)
-  - 1x [Skillslot^](/Technology%20Guide/Cybertech/README.md#skillslot) with [Acrobatics Skillchip Mark IV^](/Technology%20Guide/Gear#skillchip) installed
-  - 1x [Cybernetic Arm^](/Technology%20Guide/Cybertech/README.md#cybernetic-arm)
+  - 1x [nanooptics node](https://2e.aonsrd.com/treasure/136-nano-optics-node)
+  - 1x [tactical ultralight wings](https://2e.aonsrd.com/treasure/125-ultralight-wings)
+  - 1x [superior dermal plating](https://2e.aonsrd.com/treasure/133-dermal-plating)
  
 ### M11. Portal (?? XP, ??? Threat)
 
