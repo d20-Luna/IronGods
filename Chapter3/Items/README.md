@@ -34,17 +34,6 @@ The skin of this drum is flawed, imposing a -2 item penalty to all Performance c
 
 **Activate** (2 actions) Interact; **Effect** Until the drum is picked up or moved, all creatures within 30 feet of the nuglub-skin drum that fall prone from a successful Trip take 1d6 bludgeoning damage as if the Trip was a critical success. When the drum is picked up or moved after being activated, it becomes a poorly-made nonmagical drum and retains its item penalty.
 
-## Nutrient Training Node
-
-**Traits** Rare, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
-
-**Level** 13; **Price** 3,000 gp; **Usage** held in 2 hands; **Bulk** 2; **Capacity** 100; **Craft DC** 35
-
-**Activate** (3 actions) Interact; **Frequency** once a day;  **Power Use** 1 charge; **Effect** You attempt to follow the instructions and push the panels on the nutrient training node in a fashion that fits the repeating pattern. Attempt a DC 15 Puzzle Lore check. 
-
-* **Success** The nutrient training node dispenses a delicious tasting paste that grants you a +1 item bonus to Intelligence-based Recall Knowledge checks for the next 4 hours in addition to providing all the food needed for one creature for one day. The next time the nutrient training node is activated, The DC for its Puzzle Lore check increases by 2.
-* **Failure** The node dispenses a foul tasting paste that provides all the food needed for one creature for one day. The next time the nutrient training node is activated, The DC for its Puzzle Lore check is reset to 15.
-
 ## Rod of Gripping Smoke
 
 **Traits** Rare, Air, Conjuration, Fire, Magical, Transmutation, Wand
